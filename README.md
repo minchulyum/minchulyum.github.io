@@ -94,7 +94,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models. |
   
  </details>
- <a href="https://drive.google.com/file/d/1odhLJw7o2qwhrO4SjCgcfTKCUap4ozTl/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a>
+ <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF)]</u></a>
  
  ---- 
  <br>
