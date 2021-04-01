@@ -27,7 +27,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have moderate long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall incomes of the affected children, while mitigating negative impacts on intergenerational mobility. |
   
  </details>
- <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/JY_SchoolClosure_v3a_AEJ.pdf" target="_blank"><u>[Paper (PDF)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+ <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
 ----
 <details>
