@@ -181,7 +181,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
     
   Master thesis
-  <br><a href="https://drive.google.com/file/d/1ugyz5n0pnBgpQpuuAyeQQN45CJ-tvgUz/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
+  <br><a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
