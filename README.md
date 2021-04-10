@@ -27,7 +27,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have moderate long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall incomes of the affected children, while mitigating negative impacts on intergenerational mobility. |
   
  </details>
- <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+ <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
 ----
 <details>
@@ -42,7 +42,7 @@ My main research interests lie in macroeconomics and family economics.
   | Long hours worked for higher returns and higher returns for longer hours worked are common to many occupations, namely, nonlinear occupations (Goldin 2014). Over the last four decades, both the share and the relative wage premium of nonlinear occupations have been increasing. Females have been facing rising experience premiums, especially in nonlinear occupations. To quantitatively explore how these changes have affected the female labor supply over time, we build a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. A decomposition analysis finds that rising experience premiums, especially in nonlinear occupations, and technical change that is biased towards nonlinear occupations are important in explaining the intensive margin of female labor supply, which has continued to increase even in the recent period, during which female employment has stagnated. Finally, a counterfactual experiment suggests that if the barrier aspects of nonlinearities had gradually vanished, female employment would have been considerably higher at the expense of significantly lower labor supply at the intensive margin. |
   
  </details>
- <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/JY_NLOccFemaleLS_v5.pdf" target="_blank"><u>[Paper (PDF)]</u></a> 
+ <a href="https://minchulyum.github.io/papers/JY_NLOccFemaleLS_v5.pdf" target="_blank"><u>[Paper (PDF)]</u></a> 
  
  ----
  <details>
@@ -83,7 +83,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delievers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare. |
   
  </details>
- <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/ParentalTimeIntergenMobility_Rev3.pdf" target="_blank"><u>[Paper (PDF)]</u></a>
+ <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_Rev3.pdf" target="_blank"><u>[Paper (PDF)]</u></a>
  
  ---- 
  <details>
@@ -94,7 +94,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models. |
   
  </details>
- <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF)]</u></a>
+ <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF)]</u></a>
  
  ---- 
  <br>
@@ -111,7 +111,7 @@ My main research interests lie in macroeconomics and family economics.
   | A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model. |
   
   </details>
-  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
   <details>
@@ -124,7 +124,7 @@ My main research interests lie in macroeconomics and family economics.
   | In the United States, the employment rate is nearly flat across wealth quintiles with the exception of the first quintile. Correlations between wealth and employment are close to zero or moderately positive. However, incomplete markets models with a standard utility function counterfactually generate a strongly negative relationship between wealth and employment. Using a fairly standard incomplete markets model calibrated to match the distribution of wealth, I find that government transfers and capital income taxation increase the (non-targeted) correlations between wealth and employment substantially, bringing the model closer to the data. As the model's fit with the distribution of wealth and employment improves, I find that the precautionary motive of labor supply is mitigated, thereby raising aggregate labor supply elasticities substantially. |
   
   </details>
-  <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
 <br>
@@ -181,7 +181,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
     
   Master thesis
-  <br><a href="https://github.com/minchulyum/minchulyum.github.io/blob/master/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
+  <br><a href="https://minchulyum.github.io/papers/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
