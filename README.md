@@ -14,6 +14,19 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers:
 <details>
+  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps over the Life Cycle</font>
+    
+  (with Lukas Mahler)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Significant gaps in health across the wealth distribution exist even in countries with universal healthcare systems and negligible out-of-pocket medical expenses. To investigate underlying sources of the empirical patterns that generate these wealth-health gaps, we build a rich heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintaining a good health status in the future. Good health, in turn, shapes future income, complements utility from consumption and increases survival probabilities. Lifestyle behaviors or effort choices are subject to asymmetric stochastic adjustment costs to capture addiction and habit persistence in efforts such as smoking and exercise. Our calibrated model generates substantial wealth-health gaps as observed in German micro data. Counterfactual experiments show that good health is valued largely due to longevity benefits and that variations in individual health efforts account for a substantial portion of the observed wealth-health gaps. However, differences in wealth only explain some of these differences for the young asset-poor and retired individuals. |
+  
+ </details>
+ <a href="https://" target="_blank"><u>[Preliminary Draft Available upon Request]</u></a>
+ 
+----
+<details>
   <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font>
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
@@ -134,15 +147,6 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">Career, Information, and the Gender Gap over the Life Cycle</font>
   
   (with [Daisoon Kim](https://sites.google.com/site/fatherofseoyoon/))</summary>
-  
- </details>
- 
- ----
- 
-<details>
-  <summary markdown="span"><font color="blue">Healthy Lifestyle Behaviors and Wealth-Health Gaps over the Life Cycle</font>
-  
-  (with [Lukas Mahler](https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/lukas-mahler.html))</summary>
   
  </details>
  
