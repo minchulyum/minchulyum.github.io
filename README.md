@@ -16,7 +16,7 @@ My main research interests lie in macroeconomics and family economics.
 <details>
   <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps over the Life Cycle</font>
     
-  (with Lukas Mahler)</summary>
+  (with <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/lukas-mahler.html/" target="_blank">Lukas Mahler</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
