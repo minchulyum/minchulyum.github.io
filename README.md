@@ -7,6 +7,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
+<br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
 ### Working Papers:
