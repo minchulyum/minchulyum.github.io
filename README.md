@@ -21,7 +21,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | Significant gaps in health across the wealth distribution exist even in countries with universal healthcare systems and negligible out-of-pocket medical expenses. To investigate underlying sources of the empirical patterns that generate these wealth-health gaps, we build a rich heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintaining a good health status in the future. Good health, in turn, shapes future income, complements utility from consumption and increases survival probabilities. Effort choices, or lifestyle behaviors, are subject to asymmetric stochastic adjustment costs to capture addiction and habit persistence in efforts such as smoking and exercise. Our calibrated model generates substantial wealth-health gaps as observed in German micro data. Counterfactual experiments show that good health is valued largely due to longevity benefits and that variations in individual health efforts account for a substantial portion of the observed wealth-health gaps. However, differences in wealth only explain some of these differences for the young asset-poor and retired individuals. |
   
  </details>
- <a href="https://" target="_blank"><u>[Preliminary Draft](available upon request)</u></a>
+ <a href="https://" target="_blank"><u>[Draft]</u></a> (Prelim. draft available upon request)
  
 ----
 <details>
