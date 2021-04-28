@@ -70,7 +70,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity and Business Cycles</font>
+  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles</font>
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
   
