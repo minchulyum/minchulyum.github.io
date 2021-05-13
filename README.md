@@ -38,13 +38,15 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have moderate long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall incomes of the affected children, while mitigating negative impacts on intergenerational mobility. |
   
  </details>
- <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+ <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
 ----
 <details>
   <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
+  
+  <font color="black"><i>CRC TR Discussion Paper</i> No. 197, July 2020</font>
   
   <font color="black">Revise & Resubmit, <b><i>Review of Economic Dynamics</i></b></font></summary>
     
@@ -53,7 +55,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | Long hours worked for higher returns and higher returns for longer hours worked are common to many occupations, namely, nonlinear occupations (Goldin 2014). Over the last four decades, both the share and the relative wage premium of nonlinear occupations have been increasing. Females have been facing rising experience premiums, especially in nonlinear occupations. To quantitatively explore how these changes have affected the female labor supply over time, we build a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. A decomposition analysis finds that rising experience premiums, especially in nonlinear occupations, and technical change that is biased towards nonlinear occupations are important in explaining the intensive margin of female labor supply, which has continued to increase even in the recent period, during which female employment has stagnated. Finally, a counterfactual experiment suggests that if the barrier aspects of nonlinearities had gradually vanished, female employment would have been considerably higher at the expense of significantly lower labor supply at the intensive margin. |
   
  </details>
- <a href="https://minchulyum.github.io/papers/JY_NLOccFemaleLS_v5.pdf" target="_blank"><u>[Paper (PDF)]</u></a> 
+ <a href="https://minchulyum.github.io/papers/JY_NLOccFemaleLS_v5.pdf" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a> 
  
  ----
  <details>
@@ -74,6 +76,8 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
   
+  <font color="black"><i>CRC TR Discussion Paper</i> No. 085, Mar 2020</font>
+  
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
   | **Abstract**          |
@@ -81,11 +85,13 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper studies how transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks, and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key mechanism of our model. |
     
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (PDF)]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (PDF), Apr 2021]</u></a>
  
  ----
  <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
+  
+  <font color="black"><i>CRC TR Discussion Paper</i> No. 048, October 2018</font>
   
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
@@ -94,7 +100,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delivers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare. |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_Rev3.pdf" target="_blank"><u>[Paper (PDF)]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_Rev3.pdf" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a>
  
  ---- 
  <details>
@@ -105,7 +111,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models. |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF)]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF), Jan 2021]</u></a>
  
  ---- 
  <br>
