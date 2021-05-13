@@ -38,7 +38,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have moderate long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall incomes of the affected children, while mitigating negative impacts on intergenerational mobility. |
   
  </details>
- <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+ <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_v3a.pdf" target="_blank"><u>[Paper (PDF) Nov 2020]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
 ----
 <details>
@@ -68,7 +68,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | East Asians, especially South Koreans, are apparently preoccupied with their children’s education – most children spend time in expensive private institutes and cram schools in the evening and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper we propose a theory with status externality and endogenous fertility that connect these two facts. Using a quantitative heterogeneous-agent model with status externality calibrated to the recent Korean economy, we first find that fertility would be 16% higher in the absence of the status externality. We then explore how government interventions affect fertility and welfare from both positive and normative perspectives. The optimal policy maximizing the current generation’s welfare by addressing the externality-induced distortions is the mixture of an education investment tax rate of 12% and a moderate size of pro-natal transfers. We also highlight the importance of externality feedback in our optimal policy result and their repercussions for the future generations. |
   
  </details>
- <a href="https://minchulyum.github.io/papers/GenderFamilyEcon_Nov2020.pdf" target="_blank"><u>[Slides (PDF)]</u></a> / Draft available soon
+ <a href="https://minchulyum.github.io/papers/GenderFamilyEcon_Nov2020.pdf" target="_blank"><u>[Slides (PDF)]</u></a> / <a href="https://" target="_blank"><u>[Paper (PDF)]</u></a> (available soon)
  
  ----
  <details>
@@ -85,7 +85,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper studies how transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks, and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key mechanism of our model. |
     
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (PDF), Apr 2021]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (PDF) Apr 2021]</u></a>
  
  ----
  <details>
@@ -100,7 +100,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delivers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare. |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_Rev3.pdf" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_Rev3.pdf" target="_blank"><u>[Paper (PDF) Nov 2020]</u></a>
  
  ---- 
  <details>
@@ -111,7 +111,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models. |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF), Jan 2021]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (PDF) Jan 2021]</u></a>
  
  ---- 
  <br>
