@@ -91,7 +91,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
-  <font color="black"><i>CRC TR 224 Discussion Paper</i> No. 048, October 2018</font>
+  <font color="black"><i>MPRA Paper</i> No. 107593, Nov 2020</font>
   
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
