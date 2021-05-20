@@ -21,7 +21,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | East Asians, especially South Koreans, appear preoccupied with their children's education -- most children spend time in expensive private institutes and cram schools in the evening and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper we propose a theory with status externalities and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model with status externality calibrated to Korea, we find that fertility would be 16% higher in the absence of the status externality. Further, childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer increases fertility and reduces education while an education tax reduces both education and fertility, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an  education  tax of 12% and moderate pro-natal transfers of 5% of average income. It increases average fertility by about 5% and decreases educational spending by 16%.  Such a policy increases the welfare of the current generation, but may not be welfare-improving for future generations as it lowers their human capital. |
   
  </details>
- <a href="https://" target="_blank"><u>[Paper (PDF)]</u></a> (available soon)
+ <a href="https://" target="_blank"><u>[Paper (PDF)]</u></a> (available May 2021)
  
  ----
 <details>
