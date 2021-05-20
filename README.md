@@ -12,6 +12,19 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 
 ### Working Papers:
 <details>
+  <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font>
+    
+  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | East Asians, especially South Koreans, appear preoccupied with their children's education -- most children spend time in expensive private institutes and cram schools in the evening and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper we propose a theory with status externalities and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model with status externality calibrated to Korea, we find that fertility would be 16% higher in the absence of the status externality. Further, childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer increases fertility and reduces education while an education tax reduces both education and fertility, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an  education  tax of 12% and moderate pro-natal transfers of 5% of average income. It increases average fertility by about 5% and decreases educational spending by 16%.  Such a policy increases the welfare of the current generation, but may not be welfare-improving for future generations as it lowers their human capital. |
+  
+ </details>
+ <a href="https://" target="_blank"><u>[Paper (PDF)]</u></a> (available soon)
+ 
+ ----
+<details>
   <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps over the Life Cycle</font>
     
   (with <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/lukas-mahler/" target="_blank">Lukas Mahler</a>)</summary>
@@ -58,19 +71,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  <a href="https://minchulyum.github.io/papers/JY_NLOccFemaleLS_v5.pdf" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a> 
  
  ----
- <details>
-  <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font>
-    
-  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | East Asians, especially South Koreans, appear preoccupied with their children's education -- most children spend time in expensive private institutes and cram schools in the evening and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper we propose a theory with status externalities and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model with status externality calibrated to Korea, we find that fertility would be 16% higher in the absence of the status externality. Further, childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer increases fertility and reduces education while an education tax reduces both education and fertility, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an  education  tax of 12% and moderate pro-natal transfers of 5% of average income. It increases average fertility by about 5% and decreases educational spending by 16%.  Such a policy increases the welfare of the current generation, but may not be welfare-improving for future generations as it lowers their human capital. |
-  
- </details>
- <a href="https://" target="_blank"><u>[Paper (PDF)]</u></a> (available soon)
  
- ----
  <details>
   <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles</font>
     
