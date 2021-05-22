@@ -135,7 +135,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   <details>
   <summary markdown="span"><font color="blue">On the Distribution of Wealth and Employment</font>
     
-  <font color="black"><b><i>Review of Economic Dynamics</i></b>, 30, 86-105, October 2018</font></summary>
+  <font color="scarlet"><i>Review of Economic Dynamics</i>, 30, 86-105, October 2018</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
