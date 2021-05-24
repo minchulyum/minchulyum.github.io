@@ -77,7 +77,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
   
-  <font color="black"><i>CRC TR 224 Discussion Paper</i> No. 085, Mar 2020</font>
+  <font color="black"><i>CRC TR 224 Discussion Paper</i> No. 085, March 2020</font>
   
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
@@ -92,7 +92,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
-  <font color="black"><i>MPRA Paper</i> No. 107593, Nov 2020</font>
+  <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
   
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
