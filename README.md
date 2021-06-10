@@ -122,7 +122,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 <details>
   <summary markdown="span"><font color="blue">General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes</font>
     
-  <font color="black"><i><b>Macroeconomic Dynamics</i></b></font>, 24(8), 2012-32, December 2020</font></summary>
+  <font color="black"><i><b>Macroeconomic Dynamics</i></b>, 24(8), 2012-32, December 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -135,7 +135,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   <details>
   <summary markdown="span"><font color="blue">On the Distribution of Wealth and Employment</font>
     
-  <font color="black"><b><i>Review of Economic Dynamics</b></i></font>, 30, 86-105, October 2018</font></summary>
+  <font color="black"><b><i>Review of Economic Dynamics</b></i>, 30, 86-105, October 2018</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
