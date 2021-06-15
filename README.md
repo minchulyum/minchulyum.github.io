@@ -14,8 +14,6 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 <details>
   <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font>
     
-  <font color="black"><i>CRC TR 224 Discussion Paper</i> June 2020</font>
-    
   (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
     
   | **Abstract**          |
