@@ -15,13 +15,15 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font>
     
   (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
+  
+  <font color="black"><i>CEPR Discussion Paper</i> No. 16271, June 2021</font>
     
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">East Asians, especially South Koreans, appear to be preoccupied with their offspring's education—most children spend time in expensive private institutes and in cram schools in the evenings and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper, we propose a theory with status externalities and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model  calibrated to Korea, we find that fertility would be 16% higher in the absence of the status externality. Furthermore, childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer increases fertility and reduces education while an education tax reduces both education and fertility, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an education tax of 12% and moderate pro-natal transfers—a monthly child allowance of 3% of average income for 18 years. This would raise average fertility by about 5% and decrease education spending by 16%.  Although this policy increases the welfare of the current generation, it may not do the same for future generations as it lowers their human capital. </font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/KTY_June2021_CRC.pdf" target="_blank"><u>[Paper (PDF), Jun 2021]</u></a> / <a href="https://www.dropbox.com/s/l0pcfafgl35fkwb/Espe_June2021.pdf?dl=0" target="_blank"><u>[Slides]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/KTY_June2021_CRC.pdf" target="_blank"><u>[Paper (PDF), Jun 2021]</u></a> / <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16271#" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://www.dropbox.com/s/l0pcfafgl35fkwb/Espe_June2021.pdf?dl=0" target="_blank"><u>[Slides]</u></a>
  
  ----
 <details>
