@@ -53,7 +53,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have moderate long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall incomes of the affected children, while mitigating negative impacts on intergenerational mobility.</font> |
   
  </details>
- <a href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2020/DP234" target="_blank"><u>[Paper (PDF), Nov 2020]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+ <a href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2020/DP234" target="_blank"><u>[Paper (Nov 2020)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
 ----
 <details>
@@ -88,7 +88,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">This paper studies how transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks, and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key mechanism of our model.</font> |
     
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (PDF), Apr 2021]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (Apr 2021)]</u></a>
  
  ----
  <details>
