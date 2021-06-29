@@ -88,7 +88,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">This paper studies how transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks, and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key mechanism of our model.</font> |
     
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper-Apr 2021]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper-Apr 2021]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Rev_v4_BM_Yonsei.pdf" target="_blank"><u>[Slides]</u></a>
  
  ----
  <details>
