@@ -70,7 +70,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">Long hours worked associated with higher returns are common to many occupations, known as nonlinear occupations (Goldin, 2014). Over the last four decades, both the share of workers in nonlinear occupations and their relative wage premium have been increasing. Females in particular have been facing rising experience premiums, especially in these types of occupations. We quantitatively explore how these changes have affected the female labor supply over time using a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. Our decomposition analysis finds that rising experience premiums are important in explaining the intensive margin of female labor supply, which has continued to increase even in the most recent period. Meanwhile, technical changes biased toward nonlinear occupations help to explain recent stagnating female employment rates. Finally, a counterfactual experiment suggests that, if the barrier aspects of nonlinearities had instead gradually vanished, female employment over this same time period would have been considerably higher at the expense of significantly lower labor supplies at the intensive margin.</font> |
   
  </details>
- <a href="https://drive.google.com/file/d/1sNIfib7tER4WCd-b1TPQ4ALBfsoffcPp/view?usp=sharing" target="_blank"><u>[Paper-Jul. 2021]</u></a>
+ <a href="https://drive.google.com/file/d/1sNIfib7tER4WCd-b1TPQ4ALBfsoffcPp/view?usp=sharing" target="_blank"><u>[Paper-Jul. 2021]</u></a> / <a href="https://drive.google.com/file/d/1DmQUCv7AsZoy_bQpY-yZav9uf6rRLwWO/view?usp=sharing" target="_blank"><u>[Slides]</u></a>
  
  ----
  
