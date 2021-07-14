@@ -116,7 +116,18 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  </details>
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper-Jan. 2021]</u></a>
  
- ---- 
+ ----
+ <details>
+  <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
+  <br><a href="https://minchulyum.github.io/papers/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This study considers model selection criteria, such as the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC), for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameters problem that might adversely affect their practical performance, especially when it comes to short panel data. Monte Carlo experiments suggest that the information criteria are quite successful in selecting the true model. In particular, the AICc and the AIC operate successfully unless a time dimension is extremely small.</font> |
+  
+ </details>
+ 
+ ----
  <br>
  
 ### Publications:
@@ -187,15 +198,3 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  ----
  <br>
  
-### Old Working Paper:
-<details>
-  <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
-  <br><a href="https://minchulyum.github.io/papers/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This study considers model selection criteria, such as the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC), for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameters problem that might adversely affect their practical performance, especially when it comes to short panel data. Monte Carlo experiments suggest that the information criteria are quite successful in selecting the true model. In particular, the AICc and the AIC operate successfully unless a time dimension is extremely small.</font> |
-  
- </details>
- 
- ----
