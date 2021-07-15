@@ -119,7 +119,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  ----
  <details>
   <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
-  <br><a href="https://minchulyum.github.io/papers/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
+  <br><a href="https://minchulyum.github.io/papers/ModelSelectionFE_v3_Short.pdf" target="_blank"><u>[Paper (PDF)]</u></a>
   
   <font color="black">Revise & Resubmit, <b><i>Applied Economics Letters</i></b></font></summary>
   
