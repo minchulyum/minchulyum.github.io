@@ -116,11 +116,15 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  </details>
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper-Jan. 2021]</u></a>
  
- ----
- <details>
+ ---- 
+ <br>
+ 
+### Published and Accepted Papers:
+
+<details>
   <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
     
-  <font color="black">Revise & Resubmit, <b><i>Applied Economics Letters</i></b></font></summary>
+  <font color="black"><b><i>Applied Economics Letters</i></b>, Accepted</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -130,11 +134,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Paper-Jul. 2021]</u></a>
  
  ----
- <br>
- 
-### Publications:
-
-<details>
+ <details>
   <summary markdown="span"><font color="blue">General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes</font>
     
   <font color="black"><b><i>Macroeconomic Dynamics</i></b>, 24(8), 2012-32, December 2020</font></summary>
