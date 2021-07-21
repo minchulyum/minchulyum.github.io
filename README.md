@@ -142,10 +142,9 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.</font> |
-  | DOI: https://doi.org/10.1017/S1365100519000087 |
   
   </details>
-  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://doi.org/10.1017/S1365100519000087" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
   <details>
@@ -156,10 +155,9 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">In the United States, the employment rate is nearly flat across wealth quintiles with the exception of the first quintile. Correlations between wealth and employment are close to zero or moderately positive. However, incomplete markets models with a standard utility function counterfactually generate a strongly negative relationship between wealth and employment. Using a fairly standard incomplete markets model calibrated to match the distribution of wealth, I find that government transfers and capital income taxation increase the (non-targeted) correlations between wealth and employment substantially, bringing the model closer to the data. As the model's fit with the distribution of wealth and employment improves, I find that the precautionary motive of labor supply is mitigated, thereby raising aggregate labor supply elasticities substantially.</font> |
-  | DOI: https://doi.org/10.1016/j.red.2018.04.001 |
   
   </details>
-  <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://doi.org/10.1016/j.red.2018.04.001" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
 <br>
