@@ -63,7 +63,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   
   <font color="black"><i>CRC TR 224 Discussion Paper</i> No. 197, July 2020</font>
   
-  <font color="black">Revise & Resubmit, <b><i>Review of Economic Dynamics</i></b></font></summary>
+  <font color="black">Conditionally Accepted, <b><i>Review of Economic Dynamics</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
