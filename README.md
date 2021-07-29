@@ -56,24 +56,6 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  <a href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2020/DP234" target="_blank"><u>[Paper-Nov. 2020]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857687" target="_blank"><u>[SSRN]</u></a>
  
 ----
-<details>
-  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
-    
-  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
-  
-  <font color="black"><i>CRC TR 224 Discussion Paper</i> No. 197, July 2020</font>
-  
-  <font color="black">Conditionally Accepted, <b><i>Review of Economic Dynamics</i></b></font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">Long hours worked associated with higher hourly wages are common to many occupations, known as nonlinear occupations. Over the last four decades, both the share of workers in nonlinear occupations and their relative wage premium have been increasing. Females in particular have been facing rising experience premiums, especially in these types of occupations. We quantitatively explore how these changes have affected the female labor supply over time using a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. Our decomposition analysis finds that rising experience premiums are important in explaining the intensive margin of female labor supply, which has continued to increase even in the most recent period. Meanwhile, technical changes biased toward nonlinear occupations help to explain recent stagnating female employment rates. Finally, a counterfactual experiment suggests that, if the barrier aspects of nonlinearities had instead gradually vanished, female employment over this same time period would have been considerably higher at the expense of significantly lower labor supplies at the intensive margin.</font> |
-  
- </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Revised.pdf" target="_blank"><u>[Paper-Jul. 2021]</u></a>
-  
- ----
- 
  <details>
   <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles</font>
     
@@ -122,6 +104,21 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 ### Published and Accepted Papers:
 
 <details>
+  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
+    
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
+    
+  <font color="black"><b><i>Review of Economic Dynamics</i></b>, Accepted</font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">Long hours worked associated with higher hourly wages are common to many occupations, known as nonlinear occupations. Over the last four decades, both the share of workers in nonlinear occupations and their relative wage premium have been increasing. Females in particular have been facing rising experience premiums, especially in these types of occupations. We quantitatively explore how these changes have affected the female labor supply over time using a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. Our decomposition analysis finds that rising experience premiums are important in explaining the intensive margin of female labor supply, which has continued to increase even in the most recent period. Meanwhile, technical changes biased toward nonlinear occupations help to explain recent stagnating female employment rates. Finally, a counterfactual experiment suggests that, if the barrier aspects of nonlinearities had instead gradually vanished, female employment over this same time period would have been considerably higher at the expense of significantly lower labor supplies at the intensive margin.</font> |
+  
+ </details>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  
+ ----
+ <details>
   <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
     
   <font color="black"><b><i>Applied Economics Letters</i></b>, Accepted</font></summary>
@@ -131,7 +128,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">This study considers model selection criteria, such as the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC), for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameters problem that might adversely affect their practical performance, especially when it comes to short panel data. Monte Carlo experiments suggest that the information criteria are quite successful in selecting the true model. In particular, the AICc and the AIC operate successfully unless a time dimension is extremely small.</font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Paper-Jul. 2021]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper Version]</u></a>
  
  ----
  <details>
