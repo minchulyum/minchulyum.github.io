@@ -105,9 +105,9 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 
 <details>
   <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
-    
+  
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
-    
+  
   <font color="black"><b><i>Review of Economic Dynamics</i></b>, Accepted</font></summary>
     
   | **Abstract**          |
