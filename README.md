@@ -125,10 +125,10 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This study considers model selection criteria, such as the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC), for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameters problem that might adversely affect their practical performance, especially when it comes to short panel data. Monte Carlo experiments suggest that the information criteria are quite successful in selecting the true model. In particular, the AICc and the AIC operate successfully unless a time dimension is extremely small.</font> |
+  | <font color="black">This study considers model selection criteria, such as the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC), for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameter problem that might adversely affect their practical performance, especially when it comes to short panel data. Monte Carlo experiments suggest that the information criteria are quite successful in selecting the true model. In particular, the AICc and the AIC operate successfully unless a time dimension is extremely small.</font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+ <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper Version]</u></a>
  
  ----
  <details>
