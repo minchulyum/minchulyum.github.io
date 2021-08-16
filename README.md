@@ -113,10 +113,10 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">Long hours worked associated with higher hourly wages are common to many occupations, known as nonlinear occupations. Over the last four decades, both the share of workers in nonlinear occupations and their relative wage premium have been increasing. Females in particular have been facing rising experience premiums, especially in these types of occupations. We quantitatively explore how these changes have affected the female labor supply over time using a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. Our decomposition analysis finds that rising experience premiums are important in explaining the intensive margin of female labor supply, which has continued to increase even in the most recent period. Meanwhile, technical changes biased toward nonlinear occupations help to explain recent stagnating female employment rates. Finally, a counterfactual experiment suggests that, if the barrier aspects of nonlinearities had instead gradually vanished, female employment over this same time period would have been considerably higher at the expense of significantly lower labor supplies at the intensive margin.</font> |  
-  | DOI: <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>[https://dx.doi.org/10.1080/13504851.2021.1962505]</u></a> |  
+  | DOI: <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>https://doi.org/10.1016/j.red.2021.07.004</u></a> |  
   
  </details>
- <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+ <a href="https://authors.elsevier.com/a/1dat%7E3uolWavg6" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
  ----
  <details>
@@ -127,6 +127,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This study considers model selection criteria, such as the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC), for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameter problem that might adversely affect their practical performance, especially when it comes to short panel data. Monte Carlo experiments suggest that the information criteria are quite successful in selecting the true model. In particular, the AICc and the AIC operate successfully unless a time dimension is extremely small.</font> |
+  | DOI: <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>https://dx.doi.org/10.1080/13504851.2021.1962505</u></a> |  
   
  </details>
  <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper Version]</u></a>
@@ -140,9 +141,10 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.</font> |
+  | DOI: <a href="https://doi.org/10.1017/S1365100519000087" target="_blank"><u>https://doi.org/10.1017/S1365100519000087</u></a> |  
   
   </details>
-  <a href="https://doi.org/10.1017/S1365100519000087" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
   <details>
@@ -153,9 +155,10 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">In the United States, the employment rate is nearly flat across wealth quintiles with the exception of the first quintile. Correlations between wealth and employment are close to zero or moderately positive. However, incomplete markets models with a standard utility function counterfactually generate a strongly negative relationship between wealth and employment. Using a fairly standard incomplete markets model calibrated to match the distribution of wealth, I find that government transfers and capital income taxation increase the (non-targeted) correlations between wealth and employment substantially, bringing the model closer to the data. As the model's fit with the distribution of wealth and employment improves, I find that the precautionary motive of labor supply is mitigated, thereby raising aggregate labor supply elasticities substantially.</font> |
+  | DOI: <a href="https://doi.org/10.1016/j.red.2018.04.001" target="_blank"><u>https://doi.org/10.1016/j.red.2018.04.001</u></a> | 
   
   </details>
-  <a href="https://doi.org/10.1016/j.red.2018.04.001" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
 <br>
