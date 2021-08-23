@@ -130,7 +130,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | DOI: <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>https://dx.doi.org/10.1080/13504851.2021.1962505</u></a> |  
   
  </details>
- <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+ <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper Version]</u></a>
  
  ----
  <details>
