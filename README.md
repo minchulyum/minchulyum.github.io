@@ -165,7 +165,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
 
 ### Select Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">Career, Information, and the Gender Gap over the Life Cycle</font>
+  <summary markdown="span"><font color="blue">Efficient Parental Leave Policies with Joint Career Concerns</font>
   
   (with [Daisoon Kim](https://sites.google.com/site/fatherofseoyoon/))</summary>
   
