@@ -76,7 +76,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
-  <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
+  <font color="black"><i>SSRN</i> 3862378, November 2020</font>
   
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
@@ -85,7 +85,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delivers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare.</font> |
   
  </details>
- <a href="https://mpra.ub.uni-muenchen.de/107588/1/MPRA_paper_107588.pdf" target="_blank"><u>[Paper (11/2020)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
+ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[Paper (11/2020)]</u></a>
  
  ---- 
  <details>
