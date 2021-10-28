@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). I am a member of the Collaborative Research Center Transregio 224 ([CRC TR 224](https://www.crctr224.de/en/about)), funded by the German Research Foundation (DFG). My main research fields are macroeconomics and family economics.
+I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) (07.2015--). I am a member of the Collaborative Research Center Transregio 224 ([CRC TR 224](https://www.crctr224.de/en/about)), funded by the German Research Foundation (DFG). My main research fields are macroeconomics and family economics.
 
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
