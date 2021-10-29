@@ -98,6 +98,8 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  </details>
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (01/2021)]</u></a>
  
+ <font color="black">Resubmitted</font></summary>
+ 
  ---- 
  <br>
  
