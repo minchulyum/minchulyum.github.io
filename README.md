@@ -89,7 +89,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
+  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
     
   | **Abstract**          |
   |:---------------------------|
