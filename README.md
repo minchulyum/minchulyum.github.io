@@ -27,7 +27,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
  
  ----
 <details>
-  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps over the Life Cycle</font>
+  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany</font>
     
   (with <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/lukas-mahler/" target="_blank">Lukas Mahler</a>)</summary>
   
@@ -36,7 +36,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">Significant gaps in wealth across health status exist over the lifecycle even in Germany---a country with universal healthcare systems and negligible out-of-pocket medical expenses. To investigate underlying sources of the empirical patterns that generate these wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintaining a good health status in the future. Good health, in turn, shapes future labor income and increases survival probabilities. Effort choices, or lifestyle behaviors, are subject to asymmetric stochastic adjustment costs to capture addiction and habit persistence in efforts such as smoking and exercise. Our calibrated model generates around 50% of the wealth gaps by health observed in German micro data. Our counterfactual experiments indicate that variations in individual health efforts play a significant role in generating these wealth-health gaps. </font> |
   
  </details>
- <a href="https://" target="_blank"><u>[Paper (05/2021)]</u></a> (New Draft Available Soon)
+ <a href="https://" target="_blank"><u>[Paper (10/2021)]</u></a> (Preliminary Draft)
  
 ----
 <details>
