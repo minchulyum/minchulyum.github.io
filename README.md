@@ -36,7 +36,7 @@ I am an assistant professor at the [University of Mannheim](https://www.vwl.uni-
   | <font color="black">Significant gaps in wealth across health status exist over the life cycle even in Germany---a country with universal healthcare systems and negligible out-of-pocket medical expenses. To investigate underlying sources of the empirical patterns of wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintaining a good health status in the future. Good health, in turn, shapes labor income and increases survival probabilities. Effort choices, or lifestyle behaviors, are subject to asymmetric stochastic adjustment costs to capture addiction and habit persistence in efforts such as smoking and exercise. Our calibrated model generates around half of the wealth gaps by health observed in German micro data. Our counterfactual experiments indicate that variations in individual health efforts account for over half of these gaps. Their importance arises because they affect labor income and savings rates, both of which influence wealth accumulation, but also because they act as an amplification device as richer households exert relatively more efforts to maintain a healthy lifestyle. </font> |
   
  </details>
- <a href="https://" target="_blank"><u>[Paper (10/2021)]</u></a> (Preliminary Draft)
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/MahlerYum_Oct2021.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> (Preliminary Draft)
  
 ----
 <details>
