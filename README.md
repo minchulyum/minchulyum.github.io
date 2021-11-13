@@ -2,7 +2,10 @@
 
 ### Welcome!
 
-<font color="black">I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I am a Research Affiliate (Macroeconomics and Growth) at the <a href="https://cepr.org/" target="_blank">Centre for Economic Policy Research</a> (CEPR) (Dec. 2021 onward), and a member of the Collaborative Research Center Transregio 224 (<a href="https://www.crctr224.de/en/about" target="_blank">CRC TR 224</a>), funded by the German Research Foundation (DFG). My main research fields are macroeconomics and family economics.</font>
+<font color="black">Assistant Professor of Economics, <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>.
+  Research Affiliate (Macroeconomics and Growth), <a href="https://cepr.org/" target="_blank">Centre for Economic Policy Research</a> (CEPR) (Dec. 2021 onward)
+  Member (Project A3), Collaborative Research Center Transregio 224 (<a href="https://www.crctr224.de/en/about" target="_blank">CRC TR 224</a>), funded by the German Research Foundation (DFG). 
+  Research fields: Macroeconomics, Family Economics</font>
 
 <br>
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
