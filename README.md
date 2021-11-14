@@ -4,8 +4,8 @@
 
 <ul>
   <li><font color="black">Assistant Professor of Economics, <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a></font></li>
-  <li><font color="black">Research Affiliate (Macroeconomics and Growth), <a href="https://cepr.org/" target="_blank">Centre for Economic Policy Research</a> (CEPR) (Dec. 2021 onward)</font></li>
-  <li><font color="black">Member (Project A3), <a href="https://www.crctr224.de/en/about" target="_blank">Collaborative Research Center Transregio 224</a> (CRC TR 224) funded by the German Research Foundation (DFG)</font></li>
+  <li><font color="black">Research Affiliate (Macroeconomics and Growth), Centre for Economic Policy Research (<a href="https://cepr.org/" target="_blank">CEPR</a>) (Dec. 2021 onward)</font></li>
+  <li><font color="black">Member (Project A3), Collaborative Research Center Transregio 224 (<a href="https://www.crctr224.de/en/about" target="_blank">CRC TR 224</a>) between Bonn and Mannheim, funded by the German Research Foundation (DFG)</font></li>
   <li><font color="black">Research fields: Macroeconomics, Family Economics</font></li>
 </ul>
 
