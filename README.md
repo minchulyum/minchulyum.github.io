@@ -82,9 +82,9 @@
  <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
-  <font color="black"><i>SSRN</i> 3862378, November 2020</font>
+  <font color="black"><i>SSRN</i> 3862378, November 2021</font>
   
-  <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
+  <font color="black">Resubmitted</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
