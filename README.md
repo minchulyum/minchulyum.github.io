@@ -171,7 +171,7 @@
   ----
 <br>
 
-### Select Work in Progress:
+### Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">Efficient Parental Leave Policies with Joint Career Concerns</font>
   
