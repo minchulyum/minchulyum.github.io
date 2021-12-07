@@ -52,7 +52,7 @@
   
   <font color="black"><i>Covid Economics, Vetted and Real-Time Papers</i>, 57, 46-93, November 2020</font>
   
-  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
+  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary> (Updated Draft Available Soon)
   
   | **Abstract**          |
   |:---------------------------|
