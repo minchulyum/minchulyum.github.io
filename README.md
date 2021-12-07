@@ -52,14 +52,14 @@
   
   <font color="black"><i>Covid Economics, Vetted and Real-Time Papers</i>, 57, 46-93, November 2020</font>
   
-  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary> (Updated Draft Available Soon)
+  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have moderate long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall incomes of the affected children, while mitigating negative impacts on intergenerational mobility.</font> |
   
  </details>
- <a href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2020/DP234" target="_blank"><u>[Paper (11/2020)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857687" target="_blank"><u>[SSRN]</u></a>
+ <a href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2020/DP234" target="_blank"><u>[Paper (11/2020)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857687" target="_blank"><u>[SSRN]</u></a> (Updated Draft Available Soon)
  
 ----
  <details>
