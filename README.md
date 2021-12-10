@@ -107,7 +107,7 @@
  ---- 
  <br>
  
-### Published and Accepted Papers:
+### Published Papers:
 
 <details>
   <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
