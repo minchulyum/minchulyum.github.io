@@ -171,6 +171,15 @@
 
 ### Work in Progress:
 <details>
+  <summary markdown="span"><font color="blue">How Should Government Mitigate Adverse Consequences of School Closures?</font>
+  
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))</summary>
+  
+ </details>
+ 
+ ----
+ 
+ <details>
   <summary markdown="span"><font color="blue">Efficient Parental Leave Policies with Joint Career Concerns</font>
   
   (with [Daisoon Kim](https://sites.google.com/site/fatherofseoyoon/))</summary>
