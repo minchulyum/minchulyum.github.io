@@ -20,7 +20,9 @@
 <details>
   <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea</font>
     
-  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)  
+  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)
+  
+  <font color="black"><i>CEPR Discussion Paper</i> No. 16271</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
