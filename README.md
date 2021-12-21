@@ -65,8 +65,6 @@
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
   
-  <font color="black"><i>CRC TR 224 Discussion Paper</i> No. 085, March 2020</font>
-  
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
   | **Abstract**          |
