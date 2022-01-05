@@ -50,7 +50,7 @@
   
   <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font>
   
-  <font color="black"><b><i>Covid Economics, Vetted and Real-Time Papers</i></b>57, 2020</font></summary>
+  <font color="black">Covid Economics, Vetted and Real-Time Papers 57, 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
