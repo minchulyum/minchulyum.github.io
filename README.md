@@ -27,7 +27,7 @@
   | <font color="black">East Asians, especially South Koreans, appear to be preoccupied with their offspring's education---most children spend time in expensive private institutes and in cram schools in the evenings and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper, we propose a theory with status externalities and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model  calibrated to Korea, we find that fertility would be 16% higher in the absence of the status externality and that childlessness in the poorest quintile would fall from five to less than one percent. We further show that the externality amplifies the fertility decline over time. We then explore the effects of various government policies. A pro-natal transfer increases fertility and reduces education while an education tax reduces both education and fertility, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an education tax of 12% and moderate pro-natal transfers---a monthly child allowance of 3% of average income for 18 years. This would raise average fertility by about 5% and decrease education spending by 16%.  Although this policy increases the welfare of the current generation, it may not do the same for future generations as it lowers their human capital. </font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/KTY_October2021.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> / <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16271#" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a> / <a href="https://minchulyum.github.io/papers/StatusExt&LowBirth_BM_v12_CEPRMG.pdf" target="_blank"><u>[Slides]</u></a> (Under Revision)
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/KTY_October2021.pdf" target="_blank"><u>[Paper (2021/10)]</u></a> / <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16271#" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a> / <a href="https://minchulyum.github.io/papers/StatusExt&LowBirth_BM_v12_CEPRMG.pdf" target="_blank"><u>[Slides]</u></a> (Under Revision)
  
  ----
 <details>
@@ -40,7 +40,7 @@
   | <font color="black">We document significant gaps in wealth across health status over the life cycle in Germany---a country with universal healthcare systems and negligible out-of-pocket medical expenses. We build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously to investigate underlying sources of the empirical patterns of wealth-health gaps. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintaining a good health status in the future. Effort choices, or lifestyle behaviors, are subject to adjustment costs to capture various aspects of micro-level effort adjustment behaviors in the data. We find that our calibrated model generates around half of the wealth gaps by health observed in German micro data, and that variations in health-related lifetime outcomes are largely explained by uncertainty realizations over the life cycle rather than initial conditions at age 25. Our counterfactual experiments indicate that variations in individual health efforts account for over half of the model-generated wealth gaps by health status. Their importance arises because they affect labor income and savings rates, both of which influence wealth accumulation, but also because they act as an amplification device as richer households exert relatively more efforts to maintain a healthy lifestyle. </font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/MahlerYum_Jan2022.pdf" target="_blank"><u>[Paper (01/2022)]</u></a> (Preliminary Draft, Under Revision)
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/MahlerYum_Jan2022.pdf" target="_blank"><u>[Paper (2022/01)]</u></a> (Preliminary Draft, Under Revision)
  
 ----
 <details>
@@ -57,7 +57,7 @@
   | <font color="black">This paper quantitatively investigates the medium- and long-term macroeconomic and distributional consequences of school closures through intergenerational channels. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Higher substitutability between public and private investments induces smaller damages in the aggregate economy and the affected children's lifetime income, while exacerbating negative impacts on intergenerational mobility and inequality.</font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_SchoolClosure_v3b_Revised.pdf" target="_blank"><u>[Paper (12/2021)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857687" target="_blank"><u>[SSRN]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_SchoolClosure_v3b_Revised.pdf" target="_blank"><u>[Paper (2021/12)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857687" target="_blank"><u>[SSRN]</u></a>
  
 ----
  <details>
@@ -72,7 +72,7 @@
   | <font color="black">This paper studies how transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks, and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key mechanism of our model.</font> |
     
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (04/2021)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Rev_v4_BM.pdf" target="_blank"><u>[Slides]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (2021/04)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Rev_v4_BM.pdf" target="_blank"><u>[Slides]</u></a>
  
  ----
  <details>
@@ -85,7 +85,7 @@
   | <font color="black">More educated and richer parents invest more time in their children throughout childhood. This paper constructs an overlapping generations general equilibrium model to explore the extent to which this heterogeneity in time investment shapes intergenerational mobility of lifetime income. The calibrated model successfully accounts for untargeted distributional aspects of income mobility, which are captured in the income quintile transition matrix. Counterfactual exercises show that removing heterogeneity in parental time investment raises intergenerational mobility significantly for early childhood but only marginally in later childhood. Since parental time and monetary investments are poor substitutes for human capital development in early childhood, parental time investment during this period serves as a mechanism that amplifies the transmission of the parents' economic status to their children. Policy experiments find that an asset-tested subsidy for parental investments in early childhood is the most cost-effective policy instrument for raising intergenerational mobility, though it reduces mobility substantially if given to parents with older school-aged children.</font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_Nov2021.pdf" target="_blank"><u>[Paper (11/2021)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_Nov2021.pdf" target="_blank"><u>[Paper (2021/11)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
  
  ---- 
  <details>
@@ -98,7 +98,7 @@
   | <font color="black">This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models.</font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (01/2021)]</u></a>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (2021/01)]</u></a>
  
  ---- 
  <br>
