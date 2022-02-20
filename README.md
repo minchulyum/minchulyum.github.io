@@ -93,7 +93,7 @@
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This paper presents an extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment frictions. Households take as given state-dependent hours per worker and make intertemporal labor supply decisions along the extensive margin. The model is able to connect the micro elasticity to aggregate fluctuations and macro elasticities, in contrast to pure indivisible labor models, while generating empirically reasonable Frisch elasticities.</font> |
+  | <font color="black">This paper presents an extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment frictions. Households take as given state-dependent hours per worker and make intertemporal labor supply decisions along the extensive margin. The model is able to connect the micro elasticity to aggregate fluctuations and macro elasticities, in contrast to pure indivisible labor models, while generating empirically reasonable extensive-margin Frisch elasticities.</font> |
   
  </details>
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_Letters.pdf"><u>[Paper (2022/02)]</u></a>
