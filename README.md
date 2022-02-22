@@ -33,7 +33,7 @@
 <details>
   <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany</font>
     
-  (with <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/lukas-mahler/" target="_blank">Lukas Mahler</a>)</summary>
+  (with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
