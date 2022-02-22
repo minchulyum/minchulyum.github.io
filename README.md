@@ -78,7 +78,7 @@
  <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
-  <font color="black">Resubmitted</font></summary>
+  <font color="black">Revise & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
