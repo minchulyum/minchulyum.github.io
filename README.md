@@ -20,7 +20,9 @@
 <details>
   <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea</font>
     
-  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
+  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)
+  
+  <font color="black">Submitted</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -91,7 +93,9 @@
  
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
+  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
+  
+  <font color="black">Submitted</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
