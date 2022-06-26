@@ -99,7 +99,7 @@
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This paper studies aggregate fluctuations in an extension of the classical indivisible labor supply model. The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment frictions. Households take as given state-dependent hours per worker and make intertemporal labor supply decisions along the extensive margin. The model reconciles a large macro Frisch elasticity with a small micro counterpart while connecting the household preference parameter to aggregate labor market fluctuations, with the extensive margin elasticity being empirically reasonable.</font> |
+  | <font color="black">This paper provides an extension of the classical indivisible labor supply model where a large macro Frisch elasticity is reconciled with a small micro counterpart. Households take as given state-dependent hours per worker, shaped by a nonlinear mapping from hours worked to labor services and employment frictions, and make intertemporal labor supply decisions. In contract to the standard indivisible labor supply model where aggregate fluctuations are independent of the individual preference parameter, my model connects the household preference parameter to aggregate labor market fluctuations, with the size of the extensive margin elasticity being empirically reasonable.</font> |
   
  </details>
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v5.pdf"><u>[Paper (2022/06)]</u></a>
