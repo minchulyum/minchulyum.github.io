@@ -93,7 +93,7 @@
  
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
+  <summary markdown="span"><font color="blue">Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
   
   <font color="black"></font></summary>
     
