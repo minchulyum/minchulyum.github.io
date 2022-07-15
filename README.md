@@ -78,19 +78,6 @@
  </details>
  <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/HAT_Revised.pdf" target="_blank"><u>[Paper (2021/04)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Rev_v4_BM.pdf" target="_blank"><u>[Slides]</u></a>
  
- ----
- <details>
-  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
-  
-  <font color="black">Conditionally Accepted, <b><i>International Economic Review</i></b></font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This paper constructs an overlapping generations general equilibrium model to explore the extent to which heterogeneity in time investment shapes intergenerational mobility of lifetime income. The calibrated model successfully accounts for untargeted distributional aspects of income mobility, which are captured in the income quintile transition matrix. Counterfactual exercises show that removing heterogeneity in parental time investment reduces intergenerational persistence by around 7-8% for early childhood but only marginally in later childhood. Since parental time and monetary investments are poor substitutes for human capital development in early childhood, parental time investment during this period serves as a mechanism that amplifies the transmission of the parents' economic status to their children. Policy experiments find that an asset-tested subsidy for parental monetary investments in early childhood can raise intergenerational mobility in a cost-effective way, though it reduces mobility substantially if given to parents with older school-aged children.</font> |
-  
- </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_July2022.pdf" target="_blank"><u>[Paper (2022/07)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
- 
  ---- 
  <details>
   <summary markdown="span"><font color="blue">Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
@@ -107,8 +94,21 @@
  ---- 
  <br>
  
-### Published Papers:
+### Published and Forthcoming Papers:
 
+<details>
+  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
+  
+  <font color="black"><b><i>International Economic Review</i></b>, forthcoming</font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper constructs an overlapping generations general equilibrium model to explore the extent to which heterogeneity in time investment shapes intergenerational mobility of lifetime income. The calibrated model successfully accounts for untargeted distributional aspects of income mobility, which are captured in the income quintile transition matrix. Counterfactual exercises show that removing heterogeneity in parental time investment reduces intergenerational persistence by around 7-8% for early childhood but only marginally in later childhood. Since parental time and monetary investments are poor substitutes for human capital development in early childhood, parental time investment during this period serves as a mechanism that amplifies the transmission of the parents' economic status to their children. Policy experiments find that an asset-tested subsidy for parental monetary investments in early childhood can raise intergenerational mobility in a cost-effective way, though it reduces mobility substantially if given to parents with older school-aged children.</font> |
+  
+ </details>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ParentalTimeIntergenMobility_July2022.pdf" target="_blank"><u>[Paper (2022/07)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
+ 
+ ---- 
 <details>
   <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
   
