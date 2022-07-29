@@ -13,6 +13,7 @@
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
+<br>
 ### [Call for Papers: Frankfurt-Mannheim Macro Workshop 2022 (PDF)](/papers/call_for_papers_FF-MA2022.pdf)
 
 <br>
