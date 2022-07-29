@@ -14,7 +14,8 @@
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
 <br>
-### [Call for Papers: Frankfurt-Mannheim Macro Workshop (PDF)](papers/call_for_papers_FF-MA2022.pdf)
+<font color="scarlet"><i><small>&diams; Click below to download the call for papers.</small></i></font>
+### [2022 Frankfurt-Mannheim Macro Workshop (PDF)](papers/call_for_papers_FF-MA2022.pdf)
 
 <br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
