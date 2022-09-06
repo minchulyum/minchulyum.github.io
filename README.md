@@ -119,7 +119,7 @@
   
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
-  <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2021</font></summary>
+  <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -127,7 +127,7 @@
   | DOI: <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>https://doi.org/10.1016/j.red.2021.07.004</u></a> |  
   
  </details>
- <a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202521000582" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+ <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
  ----
  <details>
