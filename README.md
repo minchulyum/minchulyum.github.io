@@ -15,7 +15,7 @@
 
 <br>
 <font color="scarlet"><i><small>&diams; Click below to download the program.</small></i></font>
-### [2022 Frankfurt-Mannheim Macro Workshop (PDF)](papers/Schedule_FF-MA2022.pdf)
+### [2022 Frankfurt-Mannheim Macro Workshop (PDF)](papers/Program_FF-MA2022.pdf)
 
 <br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
