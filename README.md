@@ -119,7 +119,7 @@
   
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
-  <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
+  <font color="black"><b><i>Review of Economic Dynamics</i></b>, October 2022</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
