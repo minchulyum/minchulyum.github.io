@@ -127,7 +127,7 @@
   | DOI: <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>https://doi.org/10.1016/j.red.2021.07.004</u></a> |  
   
  </details>
- <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+ <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a> / <a href="https://minchulyum.github.io/papers/JangYumRED2022.txt" target="_blank"><u>[BibTex]</u></a>
   
  ----
  <details>
@@ -169,7 +169,7 @@
   | DOI: <a href="https://doi.org/10.1016/j.red.2018.04.001" target="_blank"><u>https://doi.org/10.1016/j.red.2018.04.001</u></a> | 
   
   </details>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper Version]</u></a> / <a href="https://minchulyum.github.io/papers/YumRED2018.txt" target="_blank"><u>[BibTex]</u></a>
   
   ----
 <br>
