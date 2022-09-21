@@ -1,0 +1,10 @@
+@article{yum2020general,
+  title={General equilibrium feedback regarding the employment effects of labor taxes},
+  author={Yum, Minchul},
+  journal={Macroeconomic Dynamics},
+  volume={24},
+  number={8},
+  pages={2012--2032},
+  year={2020},
+  publisher={Cambridge University Press}
+}
