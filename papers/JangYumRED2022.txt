@@ -1,0 +1,9 @@
+@article{jang2022nonlinear,
+  title={Nonlinear occupations and female labor supply over time},
+  author={Jang, Youngsoo and Yum, Minchul},
+  journal={Review of Economic Dynamics},
+  volume={46},
+  pages={51--73},
+  year={2022},
+  publisher={Elsevier}
+}
