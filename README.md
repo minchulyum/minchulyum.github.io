@@ -155,7 +155,7 @@
   | DOI: <a href="https://doi.org/10.1017/S1365100519000087" target="_blank"><u>https://doi.org/10.1017/S1365100519000087</u></a> |  
   
   </details>
-  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper Version]</u></a> / <a href="https://minchulyum.github.io/papers/YumMD2020.txt" target="_blank"><u>[BibTex]</u></a>
   
   ----
   <details>
