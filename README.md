@@ -111,7 +111,7 @@
   | DOI: <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>https://doi.org/10.1111/iere.12602</u></a> |
   
  </details>
- <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[Working Paper Version]</u></a>
+ <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper Version]</u></a>
  
  ---- 
 <details>
