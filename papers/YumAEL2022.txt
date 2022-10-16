@@ -1,0 +1,11 @@
+@article{doi:10.1080/13504851.2021.1962505,
+author = {Minchul Yum},
+title = {Model selection for panel data models with fixed effects: a simulation study},
+journal = {Applied Economics Letters},
+volume = {29},
+number = {19},
+pages = {1776-1783},
+year  = {2022},
+publisher = {Routledge}
+
+}
