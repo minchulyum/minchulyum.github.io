@@ -47,9 +47,7 @@
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
-  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font>
-  
-  <font color="black">Covid Economics, Vetted and Real-Time Papers 57, 2020</font></summary>
+  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
