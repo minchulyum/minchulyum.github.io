@@ -3,6 +3,7 @@
 ### Welcome!
 
 <ul>
+  <font color="black">Assistant Professor, Dept. of Economics,</font>
   <li><font color="black">Assistant Professor, Dept. of Economics, <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a></font></li>
   <li><font color="black"><a href="https://cepr.org/" target="_blank">CEPR</a> Research Affiliate</font> (Macroeconomics and Growth)</li>
   <li><font color="black">Member, Bonn-Mannheim Collaborative Research Center (<a href="https://www.crctr224.de/en/about" target="_blank">CRC TR 224</a>), funded by <a href="https://www.dfg.de/en/" target="_blank">DFG</a></font> (German Research Foundation)</li>
