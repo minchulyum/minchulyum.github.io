@@ -47,7 +47,7 @@
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
-  <font color="black">Revise & Resubmit, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
+  <font color="black">Conditionally Accepted, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
