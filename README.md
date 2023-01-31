@@ -92,7 +92,7 @@
 <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
-  <font color="black"><b><i>International Economic Review</i></b>, 2022</font></summary>
+  <font color="black"><b><i>International Economic Review</i></b>, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
