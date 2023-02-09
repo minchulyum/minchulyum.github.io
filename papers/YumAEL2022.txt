@@ -1,4 +1,4 @@
-@article{yum2022panel,
+@article{yum2022ael,
 author = {Minchul Yum},
 title = {Model selection for panel data models with fixed effects: a simulation study},
 journal = {Applied Economics Letters},
