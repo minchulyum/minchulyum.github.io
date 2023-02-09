@@ -1,0 +1,10 @@
+@article{yum2023ier,
+  title={Parental time investment and intergenerational mobility},
+  author={Yum, Minchul},
+  journal={International Economic Review},
+  volume={64},
+  issue={1},
+  pages={187--223},
+  year={2023},
+  publisher={Wiley Online Library}
+}
