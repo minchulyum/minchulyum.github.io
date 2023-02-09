@@ -1,4 +1,4 @@
-@article{yum2020general,
+@article{yum2020md,
   title={General equilibrium feedback regarding the employment effects of labor taxes},
   author={Yum, Minchul},
   journal={Macroeconomic Dynamics},
