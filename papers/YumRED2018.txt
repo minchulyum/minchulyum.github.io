@@ -1,4 +1,4 @@
-@article{yum2018distribution,
+@article{yum2018red,
   title={On the distribution of wealth and employment},
   author={Yum, Minchul},
   journal={Review of Economic Dynamics},
