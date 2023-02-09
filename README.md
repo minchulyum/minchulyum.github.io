@@ -100,7 +100,7 @@
   | DOI: <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>https://doi.org/10.1111/iere.12602</u></a> |
   
  </details>
- <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumIER2023.txt" target="_blank"><u>[BibTex]</u></a>
  
  ---- 
 <details>
