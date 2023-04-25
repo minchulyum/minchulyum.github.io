@@ -72,6 +72,11 @@
  <a href="https://minchulyum.github.io/papers/HAT_Revised_Jan2023_RR2.pdf" target="_blank"><u>[Paper (2023/01)]</u></a> / <a href="https://cepr.org/publications/dp17848" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335862" target="_blank"><u>[SSRN]</u></a>
  
  ---- 
+ 
+ <br>
+ 
+### Published and Forthcoming Papers:
+
  <details>
   <summary markdown="span"><font color="blue">Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
   
@@ -84,11 +89,7 @@
  </details>
  <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Paper (2023/03)]</u></a>
  
- ---- 
- <br>
- 
-### Published and Forthcoming Papers:
-
+ ----  
 <details>
   <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
   
