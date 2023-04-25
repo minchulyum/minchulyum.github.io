@@ -166,7 +166,7 @@
 
 ### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">Efficient Parental Leave Policies with Joint Career Concerns</font>
+  <summary markdown="span"><font color="blue">Parental Leave Policies, Fertility, and Welfare</font>
   
   (with [Daisoon Kim](https://sites.google.com/site/fatherofseoyoon/))</summary>
   
