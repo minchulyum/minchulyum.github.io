@@ -26,7 +26,7 @@
  
  ----
 <details>
-  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany <font color="black">(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</font>
+  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany <font color="black">(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</font><br>
     
   <font color="black">Reject & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
@@ -39,7 +39,7 @@
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font>
+  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font><br>
     
   <font color="black">Conditionally Accepted, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
   
@@ -52,7 +52,7 @@
  
 ----
  <details>
-  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</font>
+  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</font><br>
     
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
@@ -97,7 +97,7 @@
  
  ---- 
 <details>
-  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font>
+  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font><br>
   
   <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
