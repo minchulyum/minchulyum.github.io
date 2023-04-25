@@ -39,10 +39,8 @@
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font>
+  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font>
     
-  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
-  
   <font color="black">Conditionally Accepted, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
   
   | **Abstract**          |
@@ -54,10 +52,8 @@
  
 ----
  <details>
-  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles</font>
+  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</font>
     
-  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
-  
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
   | **Abstract**          |
@@ -101,9 +97,7 @@
  
  ---- 
 <details>
-  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
-  
-  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
+  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font>
   
   <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
