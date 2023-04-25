@@ -26,10 +26,8 @@
  
  ----
 <details>
-  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany</font>
+  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany <font color="black">(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</font>
     
-  (with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)
-  
   <font color="black">Reject & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
   | **Abstract**          |
