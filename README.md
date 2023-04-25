@@ -151,35 +151,35 @@
 
 ### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">Parental Leave Policies, Fertility, and Welfare</font> (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>))</summary>
+  <summary markdown="span"><font color="blue">Parental Leave Policies, Fertility, and Welfare</font> (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
   
  </details>
  
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">How Should Government Mitigate Adverse Consequences of School Closures?</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>))</summary>
+  <summary markdown="span"><font color="blue">How Should Government Mitigate Adverse Consequences of School Closures?</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
  ----
  
 <details>
-  <summary markdown="span"><font color="blue">Intergenerational Mobility, Social Welfare and Optimal Policies</font> (with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>))</summary>
+  <summary markdown="span"><font color="blue">Intergenerational Mobility, Social Welfare and Optimal Policies</font> (with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
   
  </details>
  
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">Nonlinear Earnings and Aggregate Labor Market Fluctuations across Countries</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)) and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>))</summary>
+  <summary markdown="span"><font color="blue">Nonlinear Earnings and Aggregate Labor Market Fluctuations across Countries</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">Indivisible Labor and the Optimal Progressivity of Tax and Transfers</font> (with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>))</summary>
+  <summary markdown="span"><font color="blue">Indivisible Labor and the Optimal Progressivity of Tax and Transfers</font> (with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
   
  </details>
  
