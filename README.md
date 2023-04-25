@@ -13,7 +13,7 @@
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea</font>
+  <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</font>
     
   (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)
   
