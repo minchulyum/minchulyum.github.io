@@ -72,7 +72,7 @@
  <details>
   <summary markdown="span"><font color="blue">Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
   
-  <font color="black">Accepted, <b><i>Scandinavian Journal of Economics</i></b></font></summary>
+  <font color="black"><b><i>Scandinavian Journal of Economics</i></b>, Accepted</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
