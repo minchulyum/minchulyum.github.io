@@ -15,6 +15,7 @@
 <details>
   <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea <font color="black">(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</font>
     
+  
   <font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
   
   | **Abstract**          |
