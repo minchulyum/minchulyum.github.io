@@ -13,7 +13,8 @@
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea <font color="black">(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</font><br>   
+  <summary markdown="span"><font color="blue">Status Externalities in Education and Low Birth Rates in Korea</font><br>   
+  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   
   <font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
   
@@ -26,7 +27,8 @@
  
  ----
 <details>
-  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany <font color="black">(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</font><br>
+  <summary markdown="span"><font color="blue">Lifestyle Behaviors and Wealth-Health Gaps in Germany</font><br>
+  (with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
     
   <font color="black">Reject & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
@@ -39,7 +41,8 @@
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font><br>
+  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font><br>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
     
   <font color="black">Conditionally Accepted, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
   
@@ -52,7 +55,8 @@
  
 ----
  <details>
-  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</font><br>
+  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles</font><br>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
     
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
@@ -97,8 +101,8 @@
  
  ---- 
 <details>
-  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time <font color="black">(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</font><br>
-  
+  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font><br>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
   <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
