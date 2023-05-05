@@ -151,7 +151,7 @@
 
 ### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">Parental Leave Policies, Fertility, and Welfare</font> (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  <summary markdown="span"><font color="blue">Parental Leave Policies, Fertility, and Labor Supply</font> (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
   
  </details>
  
