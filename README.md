@@ -37,18 +37,6 @@
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  <font color="black">Conditionally Accepted, <b><i>American Economic Journal: Macroeconomics</i></b></font></summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This paper quantitatively investigates the medium- and long-term macroeconomic and distributional consequences of school closures through intergenerational channels. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Higher substitutability between public and private investments induces smaller damages in the aggregate economy and the affected children's lifetime income, while exacerbating negative impacts on intergenerational mobility and inequality.</font> |
-  
- </details>
- <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Paper (2023/02)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857687" target="_blank"><u>[SSRN]</u></a>
- 
-----
- <details>
   <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity, and Business Cycles</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
   <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
@@ -63,8 +51,20 @@
  
  <br>
  
-### Published and Forthcoming Papers:
+### Published and Accepted Papers:
 
+ <details>
+  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  <font color="black"><b><i>American Economic Journal: Macroeconomics</i></b>, Accepted</font></summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper quantitatively investigates the medium- and long-term macroeconomic and distributional consequences of school closures through intergenerational channels. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Higher substitutability between public and private investments induces smaller damages in the aggregate economy and the affected children's lifetime income, while exacerbating negative impacts on intergenerational mobility and inequality.</font> |
+  
+ </details>
+ <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper (2023/02)]
+ 
+----
  <details>
   <summary markdown="span"><font color="blue">Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
   
