@@ -36,9 +36,15 @@
  <a href="https://minchulyum.github.io/papers/MahlerYum-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
  
 ----
-<details>
+ 
+ 
+ <br>
+ 
+### Published and Accepted Papers:
+
+ <details>
   <summary markdown="span"><font color="blue">Tax-and-Transfer Progressivity and Business Cycles</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
-  <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
+  <font color="black"><b><i>Quantitative Economics</i></b>, Accepted</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -47,12 +53,7 @@
  </details>
  <a href="https://minchulyum.github.io/papers/HAT_Revised_June2023.pdf" target="_blank"><u>[Paper (2023/06)]</u></a> / <a href="https://cepr.org/publications/dp17848" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335862" target="_blank"><u>[SSRN]</u></a>
  
- ---- 
- 
- <br>
- 
-### Published and Accepted Papers:
-
+ ----
  <details>
   <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
   <font color="black"><b><i>American Economic Journal: Macroeconomics</i></b>, Accepted</font></summary>
