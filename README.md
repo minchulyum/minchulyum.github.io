@@ -173,7 +173,7 @@
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">Nonlinear Earnings and Aggregate Labor Market Fluctuations across Countries</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  <summary markdown="span"><font color="blue">Tax and Transfers over Time and Changing Aggregate Fluctuations</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
