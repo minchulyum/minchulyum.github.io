@@ -14,28 +14,28 @@
 <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
+  <font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">East Asians, especially South Koreans, appear to be preoccupied with their offspring's education---most children spend time in expensive private institutes and in cram schools in the evenings and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. Motivated by novel empirical evidence on spillovers in private education spending, we propose a theory with status externalities  and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model calibrated to Korea, we find that fertility would be 28% higher in the absence of the status externality and that childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer or an education tax can increase fertility and reduce education spending, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an education tax of 22% and moderate pro-natal transfers. This would raise average fertility by about 11% and decrease education spending by 39%.  Although this policy increases the welfare of the current generation, it may not do the same for future generations as it lowers their human capital. </font> |
   
  </details>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://minchulyum.github.io/papers/KTY-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
+ <a href="https://minchulyum.github.io/papers/KTY-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
   
  ----
  
 <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
+  <font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">We document significant gaps in wealth across health status over the life cycle in Germany---a country with a universal healthcare system and negligible out-of-pocket medical expenses. To investigate the underlying sources of these wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintain good health status in the future. Effort choices, or lifestyle behaviors, are subject to adjustment costs to capture their habitual nature in the data. We find that our estimated model generates the great majority of the empirical wealth gaps by health and quantify the role of earnings and savings channels through which health affects these gaps. We show that variations in individual health efforts account for around a quarter of the model-generated wealth gaps by health, illustrating their role as an amplification mechanism behind the gaps. </font> |
   
  </details>
- <a href="https://minchulyum.github.io/papers/MahlerYum-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
+ &nbsp;&nbsp;&nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
  
 ----
  
@@ -46,7 +46,7 @@
 
  <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
-    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
   <font color="black"><b><i>Quantitative Economics</i></b>, Forthcoming</font></summary>
     
   | **Abstract**          |
@@ -59,7 +59,7 @@
  ----
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
-    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
   <font color="black"><b><i>AEJ: Macroeconomics</i></b>, Accepted (conditional on replication package)</font></summary>
   
   | **Abstract**          |
@@ -99,7 +99,7 @@
  ---- 
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font><br>
-    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
    <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
@@ -158,7 +158,7 @@
 ### Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-    (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
   
  </details>
  
@@ -166,7 +166,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
-    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
@@ -174,7 +174,7 @@
  
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
-    (with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
   
  </details>
  
@@ -182,7 +182,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
-    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
@@ -190,7 +190,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font><br>
-    (with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
   
  </details>
  
