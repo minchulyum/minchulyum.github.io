@@ -13,29 +13,29 @@
 ### Working Papers:
 <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;&nbsp;<font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
+  &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
+  &nbsp;<font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">East Asians, especially South Koreans, appear to be preoccupied with their offspring's education---most children spend time in expensive private institutes and in cram schools in the evenings and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. Motivated by novel empirical evidence on spillovers in private education spending, we propose a theory with status externalities  and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model calibrated to Korea, we find that fertility would be 28% higher in the absence of the status externality and that childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer or an education tax can increase fertility and reduce education spending, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an education tax of 22% and moderate pro-natal transfers. This would raise average fertility by about 11% and decrease education spending by 39%.  Although this policy increases the welfare of the current generation, it may not do the same for future generations as it lowers their human capital. </font> |
   
  </details>
- &nbsp;&nbsp;<a href="https://minchulyum.github.io/papers/KTY-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/KTY-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
   
  ----
  
 <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
-  &nbsp;&nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;&nbsp;<font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
+  &nbsp;<font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">We document significant gaps in wealth across health status over the life cycle in Germany---a country with a universal healthcare system and negligible out-of-pocket medical expenses. To investigate the underlying sources of these wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintain good health status in the future. Effort choices, or lifestyle behaviors, are subject to adjustment costs to capture their habitual nature in the data. We find that our estimated model generates the great majority of the empirical wealth gaps by health and quantify the role of earnings and savings channels through which health affects these gaps. We show that variations in individual health efforts account for around a quarter of the model-generated wealth gaps by health, illustrating their role as an amplification mechanism behind the gaps. </font> |
   
  </details>
- &nbsp;&nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
  
 ----
  
@@ -46,47 +46,47 @@
 
  <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
-  &nbsp;&nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, Forthcoming</font></summary>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
+  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, Forthcoming</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This paper studies how tax-and-transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how a degree of progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Our quantitative exercises suggest that progressivity at the bottom of the income distribution shaped by the phasing out of transfers is key for these findings. Finally, we provide suggestive empirical evidence on the heterogeneity of employment responses across the wage distribution.</font> |
     
  </details>
- &nbsp;&nbsp;<a href="https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
  
  ----
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  &nbsp;&nbsp;<font color="black"><b><i>AEJ: Macroeconomics</i></b>, Accepted (conditional on replication package)</font></summary>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  &nbsp;<font color="black"><b><i>AEJ: Macroeconomics</i></b>, (Cond.) Accepted</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This paper quantitatively investigates the medium- and long-term macroeconomic and distributional consequences of school closures through intergenerational channels. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Higher substitutability between public and private investments induces smaller damages in the aggregate economy and the affected children's lifetime income, while exacerbating negative impacts on intergenerational mobility and inequality.</font> |
   
  </details>
- &nbsp;&nbsp;<a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
  
 ----
  <details>
   <summary markdown="span"><font color="blue">"Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font>
   
-  &nbsp;&nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, Accepted</font></summary>
+  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, Accepted</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This paper provides an extension of the classical indivisible labor supply model where a large macro Frisch elasticity is reconciled with a small micro counterpart. Households take as given state-dependent hours per worker, shaped by a nonlinear mapping from hours worked to labor services and employment frictions, and make intertemporal labor supply decisions. In the standard indivisible labor supply model, aggregate fluctuations are independent of the individual preference parameter that governs the intensive margin elasticity. In my model, however, they are connected through the extensive margin whose elasticity is empirically reasonable and is shaped by the individual preference parameter.</font> |
   
  </details>
- &nbsp;&nbsp;<a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
  
  ----  
 <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
   
-  &nbsp;&nbsp;<font color="black"><b><i>International Economic Review</i></b>, 2023</font></summary>
+  &nbsp;<font color="black"><b><i>International Economic Review</i></b>, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -94,13 +94,13 @@
   | DOI: <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>https://doi.org/10.1111/iere.12602</u></a> |
   
  </details>
- &nbsp;&nbsp;<a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumIER2023.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumIER2023.txt" target="_blank"><u>[BibTex]</u></a>
  
  ---- 
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  &nbsp;&nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -108,13 +108,13 @@
   | DOI: <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>https://doi.org/10.1016/j.red.2021.07.004</u></a> |  
   
  </details>
- &nbsp;&nbsp;<a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangYumRED2022.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangYumRED2022.txt" target="_blank"><u>[BibTex]</u></a>
   
  ----
  <details>
   <summary markdown="span"><font color="blue">"Model Selection for Panel Data Models with Fixed Effects: A Simulation Study"</font>
     
-  &nbsp;&nbsp;<font color="black"><b><i>Applied Economics Letters</i></b>, 2022</font></summary>
+  &nbsp;<font color="black"><b><i>Applied Economics Letters</i></b>, 2022</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -122,13 +122,13 @@
   | DOI: <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>https://dx.doi.org/10.1080/13504851.2021.1962505</u></a> |  
   
  </details>
- &nbsp;&nbsp;<a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumAEL2022.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumAEL2022.txt" target="_blank"><u>[BibTex]</u></a>
  
  ----
  <details>
   <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
-  &nbsp;&nbsp;<font color="black"><b><i>Macroeconomic Dynamics</i></b>, 2020</font></summary>
+  &nbsp;<font color="black"><b><i>Macroeconomic Dynamics</i></b>, 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -136,13 +136,13 @@
   | DOI: <a href="https://doi.org/10.1017/S1365100519000087" target="_blank"><u>https://doi.org/10.1017/S1365100519000087</u></a> |  
   
   </details>
-  &nbsp;&nbsp;<a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumMD2020.txt" target="_blank"><u>[BibTex]</u></a>
+  &nbsp;<a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumMD2020.txt" target="_blank"><u>[BibTex]</u></a>
   
   ----
   <details>
   <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
-  &nbsp;&nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2018</font></summary>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2018</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -150,7 +150,7 @@
   | DOI: <a href="https://doi.org/10.1016/j.red.2018.04.001" target="_blank"><u>https://doi.org/10.1016/j.red.2018.04.001</u></a> | 
   
   </details>
-  &nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumRED2018.txt" target="_blank"><u>[BibTex]</u></a>
+  &nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumRED2018.txt" target="_blank"><u>[BibTex]</u></a>
   
   ----
 <br>
@@ -158,7 +158,7 @@
 ### Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
   
  </details>
  
@@ -166,7 +166,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
@@ -174,7 +174,7 @@
  
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
   
  </details>
  
@@ -182,7 +182,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
-  &nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
@@ -190,7 +190,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font><br>
-  &nbsp;&nbsp;(with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
+  &nbsp;(with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
   
  </details>
  
