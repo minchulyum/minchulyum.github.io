@@ -59,7 +59,7 @@
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
     (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  <font color="black"><b><i>American Economic Journal: Macroeconomics</i></b>, Accepted (conditional on replication package)</font></summary>
+  <font color="black"><b><i>AEJ: Macroeconomics</i></b>, Accepted (conditional on replication package)</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
