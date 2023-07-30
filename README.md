@@ -45,7 +45,8 @@
 ### Published and Accepted Papers:
 
  <details>
-  <summary markdown="span"><font color="blue">Tax-and-Transfer Progressivity and Business Cycles</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
+  <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
+    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
   <font color="black"><b><i>Quantitative Economics</i></b>, Forthcoming</font></summary>
     
   | **Abstract**          |
@@ -57,7 +58,8 @@
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
+    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
   <font color="black"><b><i>American Economic Journal: Macroeconomics</i></b>, Accepted (conditional on replication package)</font></summary>
   
   | **Abstract**          |
@@ -69,7 +71,7 @@
  
 ----
  <details>
-  <summary markdown="span"><font color="blue">Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font>
+  <summary markdown="span"><font color="blue">"Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font>
   
   <font color="black"><b><i>Scandinavian Journal of Economics</i></b>, Accepted</font></summary>
     
@@ -82,7 +84,7 @@
  
  ----  
 <details>
-  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
+  <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
   
   <font color="black"><b><i>International Economic Review</i></b>, 2023</font></summary>
     
@@ -96,7 +98,8 @@
  
  ---- 
 <details>
-  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font><br>
+    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
    <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
@@ -109,7 +112,7 @@
   
  ----
  <details>
-  <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
+  <summary markdown="span"><font color="blue">"Model Selection for Panel Data Models with Fixed Effects: A Simulation Study"</font>
     
   <font color="black"><b><i>Applied Economics Letters</i></b>, 2022</font></summary>
   
@@ -123,7 +126,7 @@
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes</font>
+  <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
   <font color="black"><b><i>Macroeconomic Dynamics</i></b>, 2020</font></summary>
   
@@ -137,7 +140,7 @@
   
   ----
   <details>
-  <summary markdown="span"><font color="blue">On the Distribution of Wealth and Employment</font>
+  <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
   <font color="black"><b><i>Review of Economic Dynamics</i></b>, 2018</font></summary>
   
@@ -154,35 +157,40 @@
 
 ### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">Parental Leave Policies, Fertility, and Labor Supply</font> (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
+    (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
   
  </details>
  
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">How Should Government Mitigate Adverse Consequences of School Closures?</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
+    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
  ----
  
 <details>
-  <summary markdown="span"><font color="blue">Intergenerational Mobility, Social Welfare and Optimal Policies</font> (with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
+    (with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
   
  </details>
  
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">Tax and Transfers over Time and Changing Aggregate Fluctuations</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
+    (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">Indivisible Labor and the Optimal Progressivity of Tax and Transfers</font> (with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
+  <summary markdown="span"><font color="blue">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font><br>
+    (with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
   
  </details>
  
