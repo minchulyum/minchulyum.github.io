@@ -23,7 +23,9 @@
   
  </details>
  <a href="https://minchulyum.github.io/papers/KTY-April2023.pdf" target="_blank"><u>[Paper (2023/04)]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
+  
  ----
+ 
 <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
     (with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
