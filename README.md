@@ -13,7 +13,7 @@
 ### Working Papers:
 <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
-    (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
+    &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   <font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
   
   | **Abstract**          |
@@ -27,7 +27,7 @@
  
 <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
-    (with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
+    &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
   <font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
   | **Abstract**          |
