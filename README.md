@@ -27,7 +27,7 @@
  
 <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
+  (with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
   &nbsp;&nbsp;<font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
   
   | **Abstract**          |
@@ -46,7 +46,7 @@
 
  <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
   &nbsp;&nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, Forthcoming</font></summary>
     
   | **Abstract**          |
@@ -59,7 +59,7 @@
  ----
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
   &nbsp;&nbsp;<font color="black"><b><i>AEJ: Macroeconomics</i></b>, Accepted (conditional on replication package)</font></summary>
   
   | **Abstract**          |
@@ -99,7 +99,7 @@
  ---- 
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
   &nbsp;&nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
@@ -158,7 +158,7 @@
 ### Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  (with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
   
  </details>
  
@@ -166,7 +166,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
@@ -174,7 +174,7 @@
  
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  (with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
   
  </details>
  
@@ -182,7 +182,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
@@ -190,7 +190,7 @@
  
  <details>
   <summary markdown="span"><font color="blue">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font><br>
-  &nbsp;&nbsp;&nbsp;(with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
+  (with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>)</summary>
   
  </details>
  
