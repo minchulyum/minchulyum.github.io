@@ -67,7 +67,7 @@
   | <font color="black">This paper quantitatively investigates the medium- and long-term macroeconomic and distributional consequences of school closures through intergenerational channels. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We find that unexpected school closure shocks have long-lasting adverse effects on macroeconomic aggregates and reduce intergenerational mobility, especially among older children. Higher substitutability between public and private investments induces smaller damages in the aggregate economy and the affected children's lifetime income, while exacerbating negative impacts on intergenerational mobility and inequality.</font> |
   
  </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/School_Closures_AEJ_Macro.pdf" target="_blank"><u>[Final version]</u></a> / <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
  
 ----
  <details>
