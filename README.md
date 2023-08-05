@@ -12,6 +12,19 @@
 
 ### Working Papers:
 <details>
+  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Parental leave policies are often regarded as a government instrument to raise both. How successful would these policies be in achieving these objectives? Are there any unintended consequences from macroeconomic perspectives? We answer these questions using a quantitative life-cycle model where heterogeneous families composed of couples jointly make decisions about fertility, labor supply, and savings. In particular, we allow households to strategically take up parental leave options. In the model, we design and investigate various dimensions of parental leave policies and their effects on macroeconomic outcomes, including fertility rates and female labor supply.</font> |
+  
+ </details>
+ &nbsp;<a href="https://" target="_blank"><u>[(Prelim.) Paper (2023/08)]</u></a>
+  
+ ----
+ 
+ <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   &nbsp;<font color="black">Revise & Resubmit, <b><i>American Economic Review</i></b></font></summary>
@@ -157,16 +170,8 @@
 
 ### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
-  
- </details>
- 
- ----
- 
- <details>
-  <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
@@ -181,8 +186,8 @@
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
