@@ -89,10 +89,11 @@
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This paper provides an extension of the classical indivisible labor supply model where a large macro Frisch elasticity is reconciled with a small micro counterpart. Households take as given state-dependent hours per worker, shaped by a nonlinear mapping from hours worked to labor services and employment frictions, and make intertemporal labor supply decisions. In the standard indivisible labor supply model, aggregate fluctuations are independent of the individual preference parameter that governs the intensive margin elasticity. In my model, however, they are connected through the extensive margin whose elasticity is empirically reasonable and is shaped by the individual preference parameter.</font> |
+  | <font color="black">This paper provides an extension of the classical indivisible labor supply model where a large macro Frisch elasticity is reconciled with a small micro counterpart. Households take as given state-dependent hours per worker, shaped by a nonlinear mapping from hours worked to labor services and employment frictions, and make intertemporal labor supply decisions. In the standard indivisible labor supply model, aggregate fluctuations are independent of the individual preference parameter that governs the intensive margin elasticity. In my model, however, they are connected through the extensive margin whose elasticity is empirically reasonable and is shaped by the individual preference parameter.</font> |    
+  | DOI: <a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>https://doi.org/10.1111/sjoe.12544</u></a> |
   
  </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
  
  ----  
 <details>
