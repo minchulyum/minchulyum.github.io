@@ -193,6 +193,14 @@
  ----
  
  <details>
+  <summary markdown="span"><font color="blue">"Progressivity of Pension Systems with Endogenous Health and Life Expectancy"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
+  
+ </details>
+ 
+ ----
+ 
+ <details>
   <summary markdown="span"><font color="blue">"Tax and Transfers over Time and Changing Aggregate Fluctuations"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
