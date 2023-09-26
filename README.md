@@ -50,6 +50,21 @@
  &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
   
  ----
+ <details>
+  <summary markdown="span"><font color="blue">"Aggregate and Distributional Effects of School Closure Mitigation Policies: Public versus Private Education"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black"></font> |
+  
+ </details>
+ &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
+
+ 
+ ----
+ 
+
   
  
  <br>
@@ -169,14 +184,6 @@
 <br>
 
 ### Work in Progress:
-<details>
-  <summary markdown="span"><font color="blue">"How Should Government Mitigate Adverse Consequences of School Closures?"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
-  
- </details>
- 
- ----
- 
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
