@@ -56,7 +56,7 @@
   
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black"></font> |
+  | <font color="black">We examine the implications of two policy tools crafted to alleviate the negative consequences of school closures. </font> |
   
  </details>
  &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
