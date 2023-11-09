@@ -74,7 +74,7 @@
 <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
-  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, Forthcoming</font></summary>
+  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
