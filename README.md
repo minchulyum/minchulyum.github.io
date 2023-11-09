@@ -79,9 +79,10 @@
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This paper studies how tax-and-transfer progressivity influences aggregate fluctuations when interacting with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how a degree of progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks and show that it delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Our quantitative exercises suggest that progressivity at the bottom of the income distribution shaped by the phasing out of transfers is key for these findings. Finally, we provide suggestive empirical evidence on the heterogeneity of employment responses across the wage distribution.</font> |
+  | DOI: <a href="https://doi.org/10.3982/QE1568" target="_blank"><u>https://doi.org/10.3982/QE1568</u></a> |
     
  </details>
- &nbsp;<a href="https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://doi.org/10.3982/QE1568" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
  
  ----
  <details>
