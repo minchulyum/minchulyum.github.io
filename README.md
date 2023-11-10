@@ -82,7 +82,7 @@
   | DOI: <a href="https://doi.org/10.3982/QE1568" target="_blank"><u>https://doi.org/10.3982/QE1568</u></a> |
     
  </details>
- &nbsp;<a href="https://doi.org/10.3982/QE1568" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://doi.org/10.3982/QE1568" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangSunakawaYumQE2023.txt" target="_blank"><u>[BibTex]</u></a>
  
  ----
  <details>
