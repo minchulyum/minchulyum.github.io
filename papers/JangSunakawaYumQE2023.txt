@@ -1,0 +1,10 @@
+@article{jangetal2023qe,
+  title={Tax-and-Transfer Progressivity and Business Cycles},
+  author={Jang, Youngsoo and Sunakawa, Takeki and Yum, Minchul},
+  journal={Quantitative Economics},
+  volume={14},
+  issue={4},
+  pages={1367--1400},
+  year={2023},
+  publisher={Wiley Online Library}
+}
