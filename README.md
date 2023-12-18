@@ -110,7 +110,7 @@
   | DOI: <a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>https://doi.org/10.1111/sjoe.12544</u></a> |
   
  </details>
- &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
  
  ----  
 <details>
