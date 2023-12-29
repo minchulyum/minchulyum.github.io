@@ -1,0 +1,9 @@
+@article{yum2024sjoe,
+  author = {Yum, Minchul},
+  title = {Frisch elasticities in a model of indivisible labor supply with endogenous workweek length},
+  journal = {The Scandinavian Journal of Economics},
+  volume = {126},
+  number = {1},
+  pages = {194-217},
+  publisher={Wiley Online Library}
+}
