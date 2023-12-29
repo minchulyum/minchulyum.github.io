@@ -84,7 +84,20 @@
  &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/mac.20200442&&from=f" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
  
 ----
+ <details>
+  <summary markdown="span"><font color="blue">"Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font>
+  
+  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, 2024</font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper provides an extension of the classical indivisible labor supply model where a large macro Frisch elasticity is reconciled with a small micro counterpart. Households take as given state-dependent hours per worker, shaped by a nonlinear mapping from hours worked to labor services and employment frictions, and make intertemporal labor supply decisions. In the standard indivisible labor supply model, aggregate fluctuations are independent of the individual preference parameter that governs the intensive margin elasticity. In my model, however, they are connected through the extensive margin whose elasticity is empirically reasonable and is shaped by the individual preference parameter.</font> |    
+  | DOI: <a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>https://doi.org/10.1111/sjoe.12544</u></a> |
+  
+ </details>
+ &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumSJOE2024.txt" target="_blank"><u>[BibTex]</u></a>
  
+ ---- 
 <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
@@ -97,21 +110,7 @@
     
  </details>
  &nbsp;<a href="https://doi.org/10.3982/QE1568" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangSunakawaYumQE2023.txt" target="_blank"><u>[BibTex]</u></a>
- 
- ----
- <details>
-  <summary markdown="span"><font color="blue">"Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font>
-  
-  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, 2024</font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This paper provides an extension of the classical indivisible labor supply model where a large macro Frisch elasticity is reconciled with a small micro counterpart. Households take as given state-dependent hours per worker, shaped by a nonlinear mapping from hours worked to labor services and employment frictions, and make intertemporal labor supply decisions. In the standard indivisible labor supply model, aggregate fluctuations are independent of the individual preference parameter that governs the intensive margin elasticity. In my model, however, they are connected through the extensive margin whose elasticity is empirically reasonable and is shaped by the individual preference parameter.</font> |    
-  | DOI: <a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>https://doi.org/10.1111/sjoe.12544</u></a> |
-  
- </details>
- &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a>
- 
+   
  ----  
 <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
