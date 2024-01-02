@@ -24,20 +24,6 @@
  &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-Dec2023.pdf" target="_blank"><u>[Paper (2023/12)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
  
 ----
-
- <details>
-  <summary markdown="span"><font color="blue">"Aggregate and Distributional Effects of School Closure Mitigation Policies: Public versus Private Education"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black">Accepted with minor revision, <b><i>Economics Letters</i></b></font></summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">Recent studies highlight the adverse effects of school closures in terms of average lifetime income loss, cross-sectional inequality, and intergenerational mobility. We use a simple model of human capital formation to compare two policy instruments that can address these negative consequences: direct public provision, such as through an extension of school time, and the provision of private education subsidies. We demonstrate that the effects of these policies on inequality and mobility depend crucially on the degree of substitutability between private and public inputs in the production of human capital. </font> |
-  
- </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Paper (2023/12)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632213" target="_blank"><u>[SSRN]</u></a>
-
- ----
  <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
@@ -70,6 +56,20 @@
  </details>
  &nbsp;<a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Paper (2023/10)]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
   
+ ----
+
+ <details>
+  <summary markdown="span"><font color="blue">"Aggregate and Distributional Effects of School Closure Mitigation Policies: Public versus Private Education"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
+  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, accepted</font></summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">Recent studies highlight the adverse effects of school closures in terms of average lifetime income loss, cross-sectional inequality, and intergenerational mobility. We use a simple model of human capital formation to compare two policy instruments that can address these negative consequences: direct public provision, such as through an extension of school time, and the provision of private education subsidies. We demonstrate that the effects of these policies on inequality and mobility depend crucially on the degree of substitutability between private and public inputs in the production of human capital. </font> |
+  
+ </details>
+ &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Paper (2023/12)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632213" target="_blank"><u>[SSRN]</u></a>
+
  ----
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
