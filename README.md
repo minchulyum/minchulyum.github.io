@@ -69,7 +69,7 @@
   | DOI: <a href="https://doi.org/10.1016/j.econlet.2024.111517" target="_blank"><u>https://doi.org/10.1016/j.econlet.2024.111517</u></a> |
  
  </details>
- &nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0165176524000016" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://cepr.org/publications/dp18726" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum2024EL.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0165176524000016" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum2024EL.txt" target="_blank"><u>[BibTex]</u></a>
 
  ----
  <details>
