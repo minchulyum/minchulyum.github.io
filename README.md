@@ -66,9 +66,10 @@
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">Recent studies highlight the adverse effects of school closures in terms of average lifetime income loss, cross-sectional inequality, and intergenerational mobility. We use a simple model of human capital formation to compare two policy instruments that can address these negative consequences: direct public provision, such as through an extension of school time, and the provision of private education subsidies. We demonstrate that the effects of these policies on inequality and mobility depend crucially on the degree of substitutability between private and public inputs in the production of human capital. </font> |
-  
+  | DOI: <a href="https://doi.org/10.1016/j.econlet.2024.111517" target="_blank"><u>https://doi.org/10.1016/j.econlet.2024.111517</u></a> |
+ 
  </details>
- &nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0165176524000016" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://cepr.org/publications/dp18726" target="_blank"><u>[CEPR DP]</u></a> 
+ &nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0165176524000016" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://cepr.org/publications/dp18726" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum2024EL.txt" target="_blank"><u>[BibTex]</u></a>
 
  ----
  <details>
