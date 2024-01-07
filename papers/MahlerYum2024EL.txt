@@ -1,0 +1,11 @@
+@article{MahlerYum2024EL,
+title = {Aggregate and distributional effects of school closure mitigation policies: Public versus private education},
+journal = {Economics Letters},
+volume = {235},
+pages = {111517},
+year = {2024},
+issn = {0165-1765},
+doi = {https://doi.org/10.1016/j.econlet.2024.111517},
+url = {https://www.sciencedirect.com/science/article/pii/S0165176524000016},
+author = {Lukas Mahler and Minchul Yum}
+}
