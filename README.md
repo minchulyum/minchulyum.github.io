@@ -61,7 +61,7 @@
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Distributional Effects of School Closure Mitigation Policies: Public versus Private Education"</font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, accepted</font></summary>
+  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, 2024</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
