@@ -172,7 +172,7 @@
   <details>
   <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
-  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, Vol. 30, 2018, </font></summary>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, Vol. 30, 2018</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
