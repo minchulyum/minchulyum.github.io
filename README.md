@@ -61,7 +61,7 @@
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Distributional Effects of School Closure Mitigation Policies: Public versus Private Education"</font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, 2024</font></summary>
+  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, Vol. 235, 2024</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -88,7 +88,7 @@
  <details>
   <summary markdown="span"><font color="blue">"Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font>
   
-  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, 2024</font></summary>
+  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, Vol. 126, 2024</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -102,7 +102,7 @@
 <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
-  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, 2023</font></summary>
+  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, Vol. 14, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -116,7 +116,7 @@
 <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
   
-  &nbsp;<font color="black"><b><i>International Economic Review</i></b>, 2023</font></summary>
+  &nbsp;<font color="black"><b><i>International Economic Review</i></b>, Vol. 64, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -130,7 +130,7 @@
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, Vol. 46, 2022</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -144,7 +144,7 @@
  <details>
   <summary markdown="span"><font color="blue">"Model Selection for Panel Data Models with Fixed Effects: A Simulation Study"</font>
     
-  &nbsp;<font color="black"><b><i>Applied Economics Letters</i></b>, 2022</font></summary>
+  &nbsp;<font color="black"><b><i>Applied Economics Letters</i></b>, Vol. 29, 2022</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -158,7 +158,7 @@
  <details>
   <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
-  &nbsp;<font color="black"><b><i>Macroeconomic Dynamics</i></b>, 2020</font></summary>
+  &nbsp;<font color="black"><b><i>Macroeconomic Dynamics</i></b>, Vol. 24, 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -172,7 +172,7 @@
   <details>
   <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
-  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2018</font></summary>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, Vol. 30, 2018, </font></summary>
   
   | **Abstract**          |
   |:---------------------------|
