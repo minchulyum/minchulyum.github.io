@@ -10,11 +10,14 @@
  
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
-### Working Papers:
-<details>
+
+ 
+### Published and Accepted Papers:
+
+ <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black">Revise & Resubmit, <b><i>Econometrica</i></b></font></summary>
+  &nbsp;<font color="black"><b><i>Econometrica</i></b>, conditionally accepted</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -24,27 +27,8 @@
  &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-Dec2023.pdf" target="_blank"><u>[Paper (2023/12)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034661" target="_blank"><u>[SSRN]</u></a>
  
 ----
- <details>
-  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Parental leave policies are often regarded as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society featuring relatively strong social norms about the role of women within households and high monetary costs of children? We answer these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings with parental leave options. We calibrate the model to recent Korean cohorts to replicate various patterns of the key variables. We find that a longer duration of unpaid parental leave can raise both fertility and female labor supply in the baseline economy. Importantly, these favorable effects are substantially diminished when we either balance social norms that enforce unequal distribution of childcare responsibilities between genders or reduce the financial burden of private education expenses. Fertility could even decrease with parental leave duration in an economy with low demands for private education.</font> |
-  
- </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/KimYum_Oct2023_ExtendedAbstract.pdf" target="_blank"><u>[Paper (2023/10)-Preliminary]</u></a>
-  
- ----
- 
 
-  
- 
- <br>
- 
-### Published and Accepted Papers:
-
- <details>
+<details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   &nbsp;<font color="black"><b><i>American Economic Review</i></b>, conditionally accepted</font></summary>
@@ -185,6 +169,23 @@
   ----
 <br>
 
+### Working Papers:
+
+ <details>
+  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Parental leave policies are often regarded as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society featuring relatively strong social norms about the role of women within households and high monetary costs of children? We answer these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings with parental leave options. We calibrate the model to recent Korean cohorts to replicate various patterns of the key variables. We find that a longer duration of unpaid parental leave can raise both fertility and female labor supply in the baseline economy. Importantly, these favorable effects are substantially diminished when we either balance social norms that enforce unequal distribution of childcare responsibilities between genders or reduce the financial burden of private education expenses. Fertility could even decrease with parental leave duration in an economy with low demands for private education.</font> |
+  
+ </details>
+ &nbsp;<a href="https://minchulyum.github.io/papers/KimYum_Oct2023_ExtendedAbstract.pdf" target="_blank"><u>[Paper (2023/10)-Preliminary]</u></a>
+  
+ ----
+ 
+ <br>
+ 
 ### Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
