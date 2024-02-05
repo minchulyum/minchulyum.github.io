@@ -31,14 +31,14 @@
 <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;<font color="black"><b><i>American Economic Review</i></b>, conditionally accepted</font></summary>
+  &nbsp;<font color="black"><b><i>American Economic Review</i></b>, forthcoming</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">East Asians, especially South Koreans, appear to be preoccupied with their offspring's education---most children spend time in expensive private institutes and in cram schools in the evenings and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. Motivated by novel empirical evidence on spillovers in private education spending, we propose a theory with status externalities  and endogenous fertility that connects these two facts. Using a quantitative heterogeneous-agent model calibrated to Korea, we find that fertility would be 28% higher in the absence of the status externality and that childlessness in the poorest quintile would fall from five to less than one percent. We then explore the effects of various government policies. A pro-natal transfer or an education tax can increase fertility and reduce education spending, with heterogeneous effects across the income distribution.  The policy mix that maximizes the current generation's welfare consists of an education tax of 22% and moderate pro-natal transfers. This would raise average fertility by about 11% and decrease education spending by 39%.  Although this policy increases the welfare of the current generation, it may not do the same for future generations as it lowers their human capital. </font> |
   
  </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://cepr.org/publications/dp16271" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a>
+ &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20220583&&from=f" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Working Paper]</u></a> 
   
  ----
 
