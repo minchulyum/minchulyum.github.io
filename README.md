@@ -180,7 +180,7 @@
   | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Parental leave policies are often regarded as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society featuring relatively strong social norms about the role of women within households and high monetary costs of children? We answer these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings with parental leave options. </font> |
   
  </details>
- &nbsp;<a href="https://" target="_blank"><u>[Paper (New version coming soon)]</u></a>
+ &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
   
  ----
  
