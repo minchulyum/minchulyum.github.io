@@ -10,7 +10,7 @@
  
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
-### Published and Accepted Papers:
+### Working Papers:
 
  <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
@@ -27,6 +27,25 @@
 ----
 
 <details>
+  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Parental leave policies are often regarded as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society featuring relatively strong social norms about the role of women within households and high monetary costs of children? We answer these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings with parental leave options. </font> |
+  
+ </details>
+ &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
+  
+ ----
+ 
+ <br>
+ 
+
+ 
+### Published and Accepted Papers:
+
+ <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   &nbsp;<font color="black"><b><i>American Economic Review</i></b>, forthcoming</font></summary>
@@ -167,25 +186,6 @@
   ----
 <br>
 
-### Working Papers:
-
- <details>
-  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Parental leave policies are often regarded as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society featuring relatively strong social norms about the role of women within households and high monetary costs of children? We answer these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings with parental leave options. </font> |
-  
- </details>
- &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
-  
- ----
- 
- <br>
- 
-
- 
 ### Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
