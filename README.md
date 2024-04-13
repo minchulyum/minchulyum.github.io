@@ -2,10 +2,7 @@
 
 ### Welcome!
 
-<font color="black">I am an Associate Professor in Economics at the <a href="https://www.southampton.ac.uk/research/groups/macroeconomics" target="_blank">University of Southampton</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. I was an Assistant Professor in the Department of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> from 2015 to 2022. 
-<br>
-
-My research interests lie primarily in macroeconomics, family economics, and public economics.</font>
+<font color="black">I am an Associate Professor in Economics at the <a href="https://www.southampton.ac.uk/research/groups/macroeconomics" target="_blank">Univ. of Southampton</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. I was an Assistant Professor in the Dept. of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Univ. of Mannheim</a> from 2015 to 2022. My research interests lie primarily in macroeconomics, family economics, and public economics.</font>
 <br>
 ### [<ins>Curriculum Vitae</ins> (PDF)](CV.pdf)
   
