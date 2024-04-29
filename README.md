@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-<font color="black">I am an Associate Professor in Economics at the <a href="https://www.southampton.ac.uk/research/groups/macroeconomics" target="_blank">Univ. of Southampton</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. In the fall, I'm joining the <a href="https://business.vcu.edu/academics/economics/" target="_blank">VCU</a> as an Associate Professor. I was an Assistant Professor in the Dept. of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Univ. of Mannheim</a> from 2015 to 2022, after receiving a PhD in economics from the <a href="https://economics.osu.edu/" target="_blank">OSU</a> in 2015. My research interests lie primarily in macroeconomics, family economics, and public economics.</font>
+<font color="black">I am an Associate Professor in Economics at the <a href="https://www.southampton.ac.uk/research/groups/macroeconomics" target="_blank">Univ. of Southampton</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. In the fall, I'm joining <a href="https://business.vcu.edu/academics/economics/" target="_blank">VCU</a> School of Business as an Associate Professor in economics. I was an Assistant Professor at <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Mannheim</a> Econ. Dept. from 2015 to 2022, shortly after obtaining a Ph.D. in Economics from the <a href="https://economics.osu.edu/" target="_blank">Ohio State</a>. My research interests lie primarily in macroeconomics, family economics, and public economics.</font>
 <br>
 ### [<ins>Curriculum Vitae</ins> (PDF)](CV.pdf)
   
