@@ -56,7 +56,7 @@
   | DOI: <a href="https://doi.org/10.1257/aer.20220583" target="_blank"><u>https://doi.org/10.1257/aer.20220583</u></a> |
   
  </details>
- &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20220583&&from=f" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/KimTertiltYum2024AER.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20220583" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/KimTertiltYum2024AER.txt" target="_blank"><u>[BibTex]</u></a>
   
  ----
 
