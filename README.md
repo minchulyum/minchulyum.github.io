@@ -22,7 +22,7 @@
   | <font color="black">We document significant gaps in wealth across health status over the life cycle in Germany---a country with a universal healthcare system and negligible out-of-pocket medical expenses. To investigate the underlying sources of these wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintain good health status in the future. Effort choices, or lifestyle behaviors, are subject to adjustment costs to capture their habitual nature in the data. We find that our estimated model generates the great majority of the empirical wealth gaps by health and quantify the role of earnings and savings channels through which health affects these gaps. We show that variations in individual health efforts account for around a quarter of the model-generated wealth gaps by health, illustrating their role as an amplification mechanism behind the gaps. </font> |
   
  </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-June2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> 
+ &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-June2024.pdf" target="_blank"><u>[Paper (2024/06)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> 
  
 ----
 
