@@ -85,7 +85,7 @@
   | DOI: <a href="https://doi.org/10.1257/mac.20200442" target="_blank"><u>https://doi.org/10.1257/mac.20200442</u></a> |
   
  </details>
- &nbsp;<a href="https://doi.org/10.1257/mac.20200442" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>
+ &nbsp;<a href="https://doi.org/10.1257/mac.20200442" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a>/ <a href="https://minchulyum.github.io/papers/JangYum2024AEJMac.txt" target="_blank"><u>[BibTex]</u></a>
  
 ----
  <details>
