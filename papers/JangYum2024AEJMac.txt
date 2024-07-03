@@ -1,0 +1,11 @@
+@article{JY2024,
+Author = {Jang, Youngsoo and Yum, Minchul},
+Title = {Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment},
+Journal = {American Economic Journal: Macroeconomics},
+Volume = {16},
+Number = {3},
+Year = {2024},
+Month = {July},
+Pages = {90–130},
+DOI = {10.1257/mac.20200442},
+URL = {https://www.aeaweb.org/articles?id=10.1257/mac.20200442}}
