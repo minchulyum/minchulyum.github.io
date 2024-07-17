@@ -198,7 +198,7 @@
  ----
  <details>
   <summary markdown="span"><font color="blue">"Understanding Changing Marriage Rates and Living Arrangements in Korea"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk</a>)</summary>
   
  </details>
  
