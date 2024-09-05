@@ -43,7 +43,7 @@
  
 
  
-### Published and Accepted Papers:
+### Publications:
 
  <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
