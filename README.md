@@ -190,6 +190,20 @@
 
 ### Work in Progress:
 <details>
+  <summary markdown="span"><font color="blue">"Understanding Changing Marriage Rates and Living Arrangements in Korea"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk</a>)</summary>
+  
+ </details>
+ 
+ ----
+<details>
+  <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  
+ </details>
+ 
+ ----
+ <details>
   <summary markdown="span"><font color="blue">"A Business Cycle Assessment of Joint Taxation of Married Couples"</font><br>
   &nbsp;(with <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
@@ -197,15 +211,8 @@
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Understanding Changing Marriage Rates and Living Arrangements in Korea"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk</a>)</summary>
-  
- </details>
- 
- ----
- <details>
-  <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  <summary markdown="span"><font color="blue">"The Value of Life and Fertility Choices"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
