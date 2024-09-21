@@ -214,15 +214,15 @@
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"A Business Cycle Assessment of Joint Taxation of Married Couples"</font><br>
-  &nbsp;(with <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  <summary markdown="span"><font color="blue">"The Value of Life and Fertility Choices"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"The Value of Life and Fertility Choices"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  <summary markdown="span"><font color="blue">"A Business Cycle Assessment of Joint Taxation of Married Couples"</font><br>
+  &nbsp;(with <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
   
  </details>
  
