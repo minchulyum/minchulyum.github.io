@@ -10,23 +10,6 @@
  
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
-### Working Papers:
-
-<details>
-  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Generous parental leave policies have recently been proposed as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society with high demands for expensive private education and strong social norms about the role of women within households? We address these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings, including parental leave take-up. The model is calibrated to recent Korean cohorts to replicate various patterns of key variables. We find that the more generous parental leave benefits recently implemented can effectively narrow gender gaps in labor markets while moderately raising fertility. We also use the model to highlight the role of underlying factors in understanding the policy effects. </font> |
-  
- </details>
- &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
-  
- ----
- 
- <br>
- 
 
  
 ### Publications:
@@ -42,7 +25,7 @@
   | DOI: <a href="https://doi.org/10.3982/ECTA20603" target="_blank"><u>https://doi.org/10.3982/ECTA20603</u></a> |
   
  </details>
- &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/KimTertiltYum2024AER.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank"><u>[BibTex]</u></a>
  
 ----
 
@@ -189,8 +172,34 @@
   ----
 <br>
 
+
+### Working Papers:
+
+<details>
+  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">South Korea has been struggling with both low fertility rates and low female hours worked for several decades. Generous parental leave policies have recently been proposed as a government instrument to raise both. How successful would these policies be in achieving these objectives in a society with high demands for expensive private education and strong social norms about the role of women within households? We address these questions using a quantitative heterogeneous-household life-cycle model in which couples jointly make decisions about fertility, childcare, labor supply, and savings, including parental leave take-up. The model is calibrated to recent Korean cohorts to replicate various patterns of key variables. We find that the more generous parental leave benefits recently implemented can effectively narrow gender gaps in labor markets while moderately raising fertility. We also use the model to highlight the role of underlying factors in understanding the policy effects. </font> |
+  
+ </details>
+ &nbsp;<a href="https://" target="_blank"><u>[Paper (available soon)]</u></a>
+  
+ ----
+ 
+ <br>
+
+ 
 ### Work in Progress:
 <details>
+  <summary markdown="span"><font color="blue">"Understanding Changing Marriage Rates and Living Arrangements in Korea"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk</a>)</summary>
+  
+ </details>
+ 
+ ----
+ <details>
   <summary markdown="span"><font color="blue">"Understanding Changing Marriage Rates and Living Arrangements in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk</a>)</summary>
   
