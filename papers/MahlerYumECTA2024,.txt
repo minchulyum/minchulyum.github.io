@@ -1,0 +1,11 @@
+@article{MahlerYum2024ECTA,
+Author = {Mahler, Lukas and Yum, Minchul},
+Title = {Lifestyle Behaviors and Wealth-Health Gaps in Germany},
+Journal = {Econometrica},
+Volume = {92},
+Number = {5},
+Year = {2024},
+Month = {September},
+Pages = {1697-1733},
+DOI = {10.3982/ECTA20603},
+URL = {https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany}}
