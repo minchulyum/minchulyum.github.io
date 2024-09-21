@@ -25,7 +25,7 @@
   | DOI: <a href="https://doi.org/10.3982/ECTA20603" target="_blank"><u>https://doi.org/10.3982/ECTA20603</u></a> |
   
  </details>
- &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank"><u>[BibTex]</u></a>
  
 ----
 
