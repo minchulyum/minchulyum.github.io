@@ -12,20 +12,6 @@
 
 ### Working Papers:
 
- <details>
-  <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black"><b><i>Econometrica</i></b>, accepted</font></summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">We document significant gaps in wealth across health status over the life cycle in Germany---a country with a universal healthcare system and negligible out-of-pocket medical expenses. To investigate the underlying sources of these wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintain good health status in the future. Effort choices, or lifestyle behaviors, are subject to adjustment costs to capture their habitual nature in the data. We find that our estimated model generates the great majority of the empirical wealth gaps by health and quantify the role of earnings and savings channels through which health affects these gaps. We show that variations in individual health efforts account for around a quarter of the model-generated wealth gaps by health, illustrating their role as an amplification mechanism behind the gaps. </font> |
-  
- </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Paper (2024/08)]</u></a> / <a href="https://cepr.org/publications/dp17036" target="_blank"><u>[CEPR DP]</u></a> 
- 
-----
-
 <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
@@ -46,6 +32,21 @@
 ### Publications:
 
  <details>
+  <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
+  &nbsp;<font color="black"><b><i>Econometrica</i></b>, 92(5), 2024</font></summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We document significant gaps in wealth across health status over the life cycle in Germany---a country with a universal healthcare system and negligible out-of-pocket medical expenses. To investigate the underlying sources of these wealth-health gaps, we build a heterogeneous-agent life-cycle model in which health and wealth evolve endogenously. In the model, agents exert efforts to lead a healthy lifestyle, which helps maintain good health status in the future. Effort choices, or lifestyle behaviors, are subject to adjustment costs to capture their habitual nature in the data. We find that our estimated model generates the great majority of the empirical wealth gaps by health and quantify the role of earnings and savings channels through which health affects these gaps. We show that variations in individual health efforts account for around a quarter of the model-generated wealth gaps by health, illustrating their role as an amplification mechanism behind the gaps. </font> |
+  | DOI: <a href="https://doi.org/10.3982/ECTA20603" target="_blank"><u>https://doi.org/10.3982/ECTA20603</u></a> |
+  
+ </details>
+ &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/KimTertiltYum2024AER.txt" target="_blank"><u>[BibTex]</u></a>
+ 
+----
+
+<details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   &nbsp;<font color="black"><b><i>American Economic Review</i></b>, 114(6), 2024</font></summary>
