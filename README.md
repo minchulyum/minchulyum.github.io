@@ -2,11 +2,11 @@
 
 ### Welcome!
 
-<font color="black">I am an Associate Professor (with tenure) at <a href="https://business.vcu.edu/academics/economics/" target="_blank">VCU Dept. of Econ.</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. Previously I was an Assistant Professor at <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Mannheim Econ. Dept.</a> from 2015 to 2022 and an Associate Professor at the <a href="https://www.southampton.ac.uk/research/groups/macroeconomics" target="_blank">Univ. of Southampton</a> from 2023 to 2024. My research interests lie primarily in macroeconomics, family economics, and public economics.</font>
+<font color="black">I am an Associate Professor (with tenure) at <a href="https://business.vcu.edu/academics/economics/" target="_blank">VCU Dept. of Econ.</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. Previously I was an Assistant Professor at <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Mannheim Econ. Dept.</a> from 2015 to 2022 and an Associate Professor at the <a href="https://www.southampton.ac.uk/research/groups/macroeconomics" target="_blank">Univ. of Southampton</a> from 2023 to 2024. 
+<br>
+My research focuses primarily on macroeconomics, and I have received several awards for my research, including <a href="https://m.mk.co.kr/news/world/10598229" target="_blank">2023 KAEA Young Scholar Award</a>.</font>
 <br>
 ### [<ins>Curriculum Vitae</ins> (PDF)](CV.pdf)
-<br>
-<a href="https://m.mk.co.kr/news/world/10598229" target="_blank"><u>2023 KAEA Young Scholar Award</u></a>
 
  ----
  
