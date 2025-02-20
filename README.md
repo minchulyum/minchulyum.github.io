@@ -28,7 +28,7 @@ My research focuses primarily on macroeconomics, and I have received several awa
   | <font color="black">South Korea has been facing persistently low fertility rates and large gender gaps in labor supply. In response, the government has expanded parental leave benefits to address these challenges. To evaluate the effectiveness of these policies, we develop a quantitative, heterogeneous-household life-cycle model in which couples make joint decisions on careers, labor supply, savings, and child-related choices, including fertility, childcare, and parental leave take-up. The model is calibrated to recent Korean cohorts to replicate key patterns observed in the data, including segmented labor markets where career-oriented jobs require high entry costs and long working hours. We find that generous benefits increase fertility and reduce gender gaps in labor supply and wages by enabling more women to remain in career-oriented jobs during their child's early years, facilitating career advancement later. The positive labor supply effects are particularly strong among highly educated parents, and the policy can be self-financing through higher lifetime labor supply. Finally, we find that incentivizing joint parental leave use is more effective than mandating it and that the positive fertility effects may weaken when parents place greater emphasis on child quality---a trend observed in recent years. </font> |
   
  </details>
- &nbsp;<a href="https://" target="_blank"><u>[Paper (2025/02)]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/KimYum_PL_Feb2025.pdf" target="_blank"><u>[Paper (2025/02)]</u></a>
   
  ----
  
