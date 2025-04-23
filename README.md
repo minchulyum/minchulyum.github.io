@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-<font color="black">I am an Associate Professor (with tenure) at <a href="http://s1030794421.onlinehome.us/government/commonwealth.html" target="_blank">Virginia Commonwealth</a> Univ. (VCU) <a href="https://business.vcu.edu/academics/economics/" target="_blank">Dept. of Econ.</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. Previously I was an Associate Professor at the <a href="https://www.southampton.ac.uk/research/areas/economics" target="_blank">Univ. of Southampton</a> from 2023 to 2024 and an Assistant Professor at <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Mannheim Econ. Dept.</a> from 2015 to 2022. 
+<font color="black">I am an Associate Professor (with tenure) at <a href="http://s1030794421.onlinehome.us/government/commonwealth.html" target="_blank">Virginia Commonwealth</a> Univ. (<a href="https://en.wikipedia.org/wiki/Virginia_Commonwealth_University" target="_blank">VCU</a>) <a href="https://business.vcu.edu/academics/economics/" target="_blank">Dept. of Econ.</a> and a <a href="https://cepr.org/about/people/minchul-yum" target="_blank">CEPR</a> Research Affiliate. Previously I was an Associate Professor at the <a href="https://www.southampton.ac.uk/research/areas/economics" target="_blank">Univ. of Southampton</a> from 2023 to 2024 and an Assistant Professor at <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Mannheim Econ. Dept.</a> from 2015 to 2022. 
 
 <br>
 <br>
