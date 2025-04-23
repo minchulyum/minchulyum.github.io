@@ -32,6 +32,14 @@ My research focuses primarily on macroeconomics and family economics, and I have
   
  ----
 
+<details>
+  <summary markdown="span"><font color="blue">"Policy Concerns in an Era of Low Fertility"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
+  
+ </details>
+ 
+ ----
+ 
   
  
  <br>
@@ -200,13 +208,6 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
 ### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">"Policy Concerns in an Era of Low Fertility"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
-  
- </details>
- 
- ----
- <details>
   <summary markdown="span"><font color="blue">"Understanding Changing Marriage Rates and Living Arrangements in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="https://sites.google.com/site/sstepanchuk/" target="_blank">Serhiy Stepanchuk</a>)</summary>
   
