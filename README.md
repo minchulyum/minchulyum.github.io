@@ -34,8 +34,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
 <details>
   <summary markdown="span"><font color="blue">"Policy Concerns in an Era of Low Fertility"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;Manuscript in Preparation for <font color="black"><b><i>Brookings Papers on Economic Activity</i></b></summary>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
   
  </details>
  
