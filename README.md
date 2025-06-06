@@ -21,7 +21,8 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
 <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/fatherofseoyoon/" target="_blank">Daisoon Kim</a>)<br>
+  &nbsp;Updated Draft Available Soon</i></b></summary>
   
   | **Abstract**          |
   |:---------------------------|
