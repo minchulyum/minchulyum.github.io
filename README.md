@@ -224,7 +224,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Economic Theories of Fertility Choice"</font><br>
   &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
-  &nbsp;In Preparation for a handbook chapter</summary>
+  &nbsp;In preparation for a handbook chapter</summary>
   
  </details>
  
