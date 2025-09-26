@@ -38,14 +38,14 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Policy Concerns in an Era of Low Fertility: The Role of Social Comparisons and Intensive Parenting"</font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;In preparation for <font color="black"><b><i>Brookings Papers on Economic Activity</i></b><br></summary>
+  &nbsp;Prepared for <font color="black"><b><i>Brookings Papers on Economic Activity</i></b><br></summary>
    
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">The global fertility rate has reached a record low, with nearly half of all countries now below replacement level. This has sparked renewed interest among policymakers and researchers alike. In this paper, we explore a novel explanation for low birth rates based on comparison motives. We show theoretically that strong comparison motives lead to high parental investments---both in time and money---and low fertility. We further show that comparison motives can amplify fertility declines driven by other forces. We provide suggestive empirical support for the role of comparison motives in explaining cross-country and within-U.S. regional variation in fertility. The resulting policy implications are different from those usually considered. Specifically, high-stakes testing in the education system may heighten comparison motives and thereby contribute to fertility decline. Banning or taxing certain types of private education institutions could reduce excessive parental investment and thereby stimulate fertility. </font> |
   
  </details>
- &nbsp;<a href="https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/" target="_blank"><u>[Brookings]</u></a> 
+ &nbsp;<a href="https://www.brookings.edu/wp-content/uploads/2025/09/5_Mahler_Tertilt_Yum_unembargoed.pdf" target="_blank"><u>[Paper (2025/09)]</u></a> / <a href="https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/" target="_blank"><u>[Brookings]</u></a> 
  
  ----
  
