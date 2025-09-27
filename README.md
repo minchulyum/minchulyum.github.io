@@ -236,6 +236,23 @@ My research focuses primarily on macroeconomics and family economics, and I have
   &nbsp;In preparation for an Oxford handbook chapter</summary>
   
  </details>
+
+ ----
+ 
+ <details>
+  <summary markdown="span"><font color="blue">"The Role of Social Norms and Externalities in Fertility Choice: Theories and Evidence"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/view/kanato-nakakuni/" target="_blank">Kanato Nakakuni</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
+  &nbsp;In preparation for a Palgrave book chapter</summary>
+  
+ </details>
+
+ ----
+ 
+ <details>
+  <summary markdown="span"><font color="blue">"Progressivity of Pension Systems with Endogenous Health and Life Expectancy"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
+  
+ </details>
  
  ----
 <details>
@@ -251,14 +268,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   
  </details>
  
- ----
- 
- <details>
-  <summary markdown="span"><font color="blue">"Progressivity of Pension Systems with Endogenous Health and Life Expectancy"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
   
- </details>
- 
  ----
  
   
