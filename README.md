@@ -232,7 +232,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"The Value of Life and Fertility Choices"</font><br>
+  <summary markdown="span"><font color="blue">"A Dynastic Perspective on the Value of Life with Endogenous Fertility"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
  </details>
