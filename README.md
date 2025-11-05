@@ -52,7 +52,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Economic Theories of Fertility Choice"</font><br>
   &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
-  &nbsp;In preparation for <font color="black"><b><i>Oxford Handbook of Fertility and Reproductive Health Economics</i></b><br></summary>
+  &nbsp;In preparation for <font color="black"><b><i>Oxford Handbook of Fertility & Reproductive Health Economics</i></b><br></summary>
   
  </details>
 
