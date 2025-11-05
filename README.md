@@ -48,6 +48,17 @@ My research focuses primarily on macroeconomics and family economics, and I have
  &nbsp;<a href="https://www.brookings.edu/wp-content/uploads/2025/09/5_Mahler_Tertilt_Yum_unembargoed.pdf" target="_blank"><u>[Paper (2025/09)]</u></a> / <a href="https://cepr.org/publications/dp20767" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/" target="_blank"><u>[Brookings]</u></a> 
  
  ----
+
+ <details>
+  <summary markdown="span"><font color="blue">"Economic Theories of Fertility Choice"</font><br>
+  &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
+  &nbsp;In preparation for <b><i>Oxford Handbook of Fertility and Reproductive Health Economics</i></b></summary>
+  
+ </details>
+
+ ----
+ 
+ 
  
   
  
@@ -238,15 +249,6 @@ My research focuses primarily on macroeconomics and family economics, and I have
  </details>
  
  ----
- <details>
-  <summary markdown="span"><font color="blue">"Economic Theories of Fertility Choice"</font><br>
-  &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
-  &nbsp;In preparation for an Oxford handbook chapter</summary>
-  
- </details>
-
- ----
- 
  <details>
   <summary markdown="span"><font color="blue">"The Role of Social Norms and Externalities in Fertility Choice: Theories and Evidence"</font><br>
   &nbsp;(with <a href="https://sites.google.com/view/kanato-nakakuni/" target="_blank">Kanato Nakakuni</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
