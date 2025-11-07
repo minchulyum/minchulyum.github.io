@@ -78,7 +78,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.3982/ECTA20603" target="_blank"><u>https://doi.org/10.3982/ECTA20603</u></a> |
   
  </details>
- &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank"><u>[Publisher (Open Access)]</u></a> <a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank"><u>[BibTex]</u></a>
  
 ----
 
@@ -93,7 +93,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1257/aer.20220583" target="_blank"><u>https://doi.org/10.1257/aer.20220583</u></a> |
   
  </details>
- &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20220583" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/KimTertiltYum2024AER.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20220583" target="_blank"><u>[Publisher]</u></a> <a href="https://minchulyum.github.io/papers/KTY-Oct2023.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/KimTertiltYum2024AER.txt" target="_blank"><u>[BibTex]</u></a>
   
  ----
 
@@ -108,7 +108,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1016/j.econlet.2024.111517" target="_blank"><u>https://doi.org/10.1016/j.econlet.2024.111517</u></a> |
  
  </details>
- &nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0165176524000016" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/MahlerYum2024EL.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0165176524000016" target="_blank"><u>[Publisher (Open Access)]</u></a> <a href="https://minchulyum.github.io/papers/MahlerYum_EL2023.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/MahlerYum2024EL.txt" target="_blank"><u>[BibTex]</u></a>
 
  ----
  <details>
@@ -122,7 +122,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1257/mac.20200442" target="_blank"><u>https://doi.org/10.1257/mac.20200442</u></a> |
   
  </details>
- &nbsp;<a href="https://doi.org/10.1257/mac.20200442" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangYum2024AEJMac.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.1257/mac.20200442" target="_blank"><u>[Publisher]</u></a> <a href="https://minchulyum.github.io/papers/JY_SchoolClosure_AEJrev_Final.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/JangYum2024AEJMac.txt" target="_blank"><u>[BibTex]</u></a>
  
 ----
  <details>
@@ -136,7 +136,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>https://doi.org/10.1111/sjoe.12544</u></a> |
   
  </details>
- &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumSJOE2024.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.1111/sjoe.12544" target="_blank"><u>[Publisher (Open Access)]</u></a> <a href="https://minchulyum.github.io/papers/IndivisibleLaborStateDepHours_Final_SJE.pdf"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/YumSJOE2024.txt" target="_blank"><u>[BibTex]</u></a>
  
  ---- 
 <details>
@@ -150,7 +150,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.3982/QE1568" target="_blank"><u>https://doi.org/10.3982/QE1568</u></a> |
     
  </details>
- &nbsp;<a href="https://doi.org/10.3982/QE1568" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangSunakawaYumQE2023.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.3982/QE1568" target="_blank"><u>[Publisher (Open Access)]</u></a> <a href="https://minchulyum.github.io/papers/HAT_Final.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/JangSunakawaYumQE2023.txt" target="_blank"><u>[BibTex]</u></a>
    
  ----  
 <details>
@@ -164,7 +164,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>https://doi.org/10.1111/iere.12602</u></a> |
   
  </details>
- &nbsp;<a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumIER2023.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.1111/iere.12602" target="_blank"><u>[Publisher (Open Access)]</u></a> <a href="https://minchulyum.github.io/papers/ParentalTimeIntergenMobility_IER_Final.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/YumIER2023.txt" target="_blank"><u>[BibTex]</u></a>
  
  ---- 
 <details>
@@ -178,7 +178,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>https://doi.org/10.1016/j.red.2021.07.004</u></a> |  
   
  </details>
- &nbsp;<a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/JangYumRED2022.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://doi.org/10.1016/j.red.2021.07.004" target="_blank"><u>[Publisher]</u></a> <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/JY_NLOccFemaleLS_Final.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/JangYumRED2022.txt" target="_blank"><u>[BibTex]</u></a>
   
  ----
  <details>
@@ -192,7 +192,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://dx.doi.org/10.1080/13504851.2021.1962505" target="_blank"><u>https://dx.doi.org/10.1080/13504851.2021.1962505</u></a> |  
   
  </details>
- &nbsp;<a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> / <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumAEL2022.txt" target="_blank"><u>[BibTex]</u></a>
+ &nbsp;<a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1962505" target="_blank"><u>[Publisher]</u></a> <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/ModelSelectionFE_v3_Short_Revised.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/YumAEL2022.txt" target="_blank"><u>[BibTex]</u></a>
  
  ----
  <details>
@@ -206,7 +206,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1017/S1365100519000087" target="_blank"><u>https://doi.org/10.1017/S1365100519000087</u></a> |  
   
   </details>
-  &nbsp;<a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumMD2020.txt" target="_blank"><u>[BibTex]</u></a>
+  &nbsp;<a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher (Open Access)]</u></a> <a href="https://minchulyum.github.io/papers/EmpTaxGE_revised_final_combined.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/YumMD2020.txt" target="_blank"><u>[BibTex]</u></a>
   
   ----
   <details>
@@ -220,7 +220,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1016/j.red.2018.04.001" target="_blank"><u>https://doi.org/10.1016/j.red.2018.04.001</u></a> | 
   
   </details>
-  &nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper]</u></a> / <a href="https://minchulyum.github.io/papers/YumRED2018.txt" target="_blank"><u>[BibTex]</u></a>
+  &nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> <a href="https://minchulyum.github.io/papers/WealthEmp_final.pdf" target="_blank"><u>[Working Paper]</u></a> <a href="https://minchulyum.github.io/papers/YumRED2018.txt" target="_blank"><u>[BibTex]</u></a>
   
   ----
 <br>
