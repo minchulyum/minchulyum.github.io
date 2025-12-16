@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-<font color="black">I am an Associate Professor (with tenure) at <a href="https://business.vcu.edu/academics/economics/" target="_blank">Virginia Commonwealth Univ.</a> Previously I was an Associate Professor at the <a href="https://www.southampton.ac.uk/research/areas/economics" target="_blank">Univ. of Southampton</a> from 2023 to 2024 and an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Univ. of Mannheim</a> from 2015 to 2022. I've been a <a href="https://cepr.org/about/people/minchul-yum/" target="_blank">CEPR</a> Research Affliate since 2021.
+<font color="black">I am an Associate Professor (with tenure) at <a href="https://business.vcu.edu/academics/economics/" target="_blank">Virginia Commonwealth Univ.</a> Previously I was an Associate Professor at the <a href="https://www.southampton.ac.uk/research/areas/economics" target="_blank">Univ. of Southampton</a> from 2023 to 2024 and an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">Univ. of Mannheim</a> from 2015 to 2022. I have been a <a href="https://cepr.org/about/people/minchul-yum/" target="_blank">CEPR</a> Research Affiliate since 2021.
 
 <br>
 <br>
