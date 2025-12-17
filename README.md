@@ -7,7 +7,7 @@
 <br>
 <br>
 
-My research focuses primarily on macroeconomics and family economics, and I have received several awards for my work, including <a href="https://m.mk.co.kr/news/world/10598229" target="_blank">Young Scholar Award</a> from <a href="https://kaea.org/kaea/awards/young-scholar-award/" target="_blank">KAEA</a> and <a href="https://www.yna.co.kr/view/AKR20250204078800002" target="_blank">Korean Economy Research Prize</a> from <a href="https://kea.ne.kr/kor" target="_blank">KEA</a>.</font>
+My research focuses primarily on macroeconomics and family economics, and I have received several awards for my work, including <a href="https://m.mk.co.kr/news/world/10598229" target="_blank">Young Scholar Award</a> from <a href="https://kaea.org/kaea/awards/young-scholar-award/" target="_blank">KAEA</a> and <a href="https://www.yna.co.kr/view/AKR20250204078800002" target="_blank">Korean Economy Research Prize</a> from <a href="https://kea.ne.kr/eng" target="_blank">KEA</a>.</font>
 <br>
 ### [<ins>Curriculum Vitae</ins> (PDF)](CV.pdf)
 
