@@ -35,7 +35,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   
  ----
 <details>
-  <summary markdown="span"><font color="blue">"The Role of Social Norms and Externalities in Fertility Choice: Theories and Evidence"</font><br>
+  <summary markdown="span"><font color="blue">"Low Fertility Around the World: The Role of Social Norms"</font><br>
   &nbsp;(with <a href="https://sites.google.com/view/kanato-nakakuni/" target="_blank">Kanato Nakakuni</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   &nbsp;In preparation for <font color="black"><b><i>New Frontiers in Fertility</i></b><br> (edited by James J. Heckman) </summary>
   
