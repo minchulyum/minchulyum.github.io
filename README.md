@@ -37,7 +37,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Low Fertility Around the World: The Role of Social Norms"</font><br>
   &nbsp;(with <a href="https://sites.google.com/view/kanato-nakakuni/" target="_blank">Kanato Nakakuni</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;Prepared for <font color="black"><b><i>New Frontiers in Fertility</i></b> (edited by James Heckman) </summary>
+  &nbsp;Prepared for <font color="black"><b><i>New Frontiers in Fertility</i></b> (edited by James J. Heckman) </summary>
    
   | **Abstract**          |
   |:---------------------------|
@@ -53,7 +53,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Economic Theories of Fertility Choice"</font><br>
   &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
-  &nbsp;In preparation for <font color="black"><b><i>Oxford Handbook of Fertility & Reproductive Health Economics</i></b><br></summary>
+  &nbsp;In preparation for <font color="black"><b><i>Oxford Handbook of Fertility & Reproductive Health Economics</i></b> (edited by Kelly M. Jones and Damian Clarke)<br></summary>
   
  </details>
 
