@@ -53,9 +53,15 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Economic Theories of Fertility Choice"</font><br>
   &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
-  &nbsp;In preparation for <font color="black"><b><i>Oxford Handbook of Fertility & Reproductive Health Economics</i></b> (edited by Kelly M. Jones and Damian Clarke)<br></summary>
+  &nbsp;In preparation for <font color="black"><b><i>Oxford Handbook of Fertility & Reproductive Health Economics</i></b> (edited by Kelly M. Jones and Damian Clarke)</summary>
+   
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We review economic theories of fertility using simple benchmark models to highlight the central mechanisms shaping fertility choices. We first examine explanations for the fertility decline of the twentieth century, emphasizing rising female wages, technological progress in household production, improvements in survival and health, and the quantity–quality trade-off. We also discuss theories of the mid-century baby boom and subsequent fertility bust. The chapter then turns to explaining persistently low fertility rates in advanced economies and highlights mechanisms such as intra-household disagreement, intensive parenting norms, labor market institutions, family policies, delayed childbearing, rising childlessness and the effect of assisted reproductive technologies. We then consider fertility patterns in developing countries and their interaction with economic growth, focusing on the role of customary institutions, family-planning policies, and modern growth frameworks that endogenize fertility within the demographic transition. The chapter concludes by outlining several open questions that represent promising avenues for future research. </font> |
   
  </details>
+ &nbsp;<a href="https://minchulyum.github.io/papers/HannuschYum-Mar2026.pdf" target="_blank"><u>[Paper (2026/03)]</u></a>
+ 
 
  ----
  
