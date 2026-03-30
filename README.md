@@ -44,7 +44,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | <font color="black">This chapter examines how social norms shape fertility behavior. We first present cross-country evidence linking fertility to norms regarding family size, childcare, gender roles, parenting, and sexual behavior. We also review empirical studies showing substantial fertility spillovers within families, workplaces, and social networks. To interpret these patterns, we present a series of models to clarify the mechanisms through which norms and fertility decisions interact. We organize the theories by type of norm:  norms about ideal family size, norms governing the use of market childcare, gender norms within the household, parenting norms related to educational investment and social comparison, and norms surrounding birth control. We discuss how changes in social norms over time may have contributed to fertility decline. Finally, we highlight promising directions for future research. </font> |
   
  </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/NTY-Mar2026.pdf" target="_blank"><u>[Paper (2026/03)]</u></a>
+ &nbsp;<a href="https://minchulyum.github.io/papers/NTY-Mar2026.pdf" target="_blank"><u>[Paper (2026/03)]</u></a> <a href="https://cepr.org/publications/dp21342" target="_blank"><u>[CEPR DP]</u></a>
 
  
  
