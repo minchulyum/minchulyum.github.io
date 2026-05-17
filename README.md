@@ -65,6 +65,13 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
  ----
  
+ <details>
+  <summary markdown="span"><font color="blue">"Health, Longevity, and Retirement Dynamics: Implications for Social Security Progressivity"</font><br>
+  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
+  
+ </details>
+ 
+ ----
  
  
   
@@ -254,14 +261,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  </details>
  
  ----
- 
- <details>
-  <summary markdown="span"><font color="blue">"Health, Longevity, and Retirement Dynamics: Implications for Social Security Progressivity"</font><br>
-  &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
   
- </details>
- 
- ----
  <details>
   <summary markdown="span"><font color="blue">"A Dynastic Perspective on the Value of Life with Endogenous Fertility"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
