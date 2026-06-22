@@ -1,0 +1,8 @@
+@article{MTY2025BPEA,
+Author = {Mahler, Lukas and Tertilt, Michèle and Yum, Minchul},
+Title = {Policy Concerns in an Era of Low Fertility: The Role of Social Comparisons and Intensive Parenting.},
+Journal = {Brookings Papers on Economic Activity},
+Year = {2025},
+Month = {Fall},
+Pages = {293–346},
+URL = {https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/}}
