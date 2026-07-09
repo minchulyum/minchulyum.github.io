@@ -11,8 +11,6 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <br>
 ### [<ins>Curriculum Vitae</ins> (PDF)](CV.pdf)
 
-### [<ins>Richmond Macro Workshop (April 2026)</ins> (PDF)](papers/Program_RichmondMacro2026.pdf)
-
 
  ----
  
