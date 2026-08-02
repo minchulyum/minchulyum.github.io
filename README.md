@@ -96,7 +96,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Lifestyle Behaviors and Wealth-Health Gaps in Germany"</font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black"><b><i>Econometrica</i></b>, 92(5), 2024</font></summary>
+  &nbsp;<font color="black"><b><i>Econometrica</i></b>, 2024</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -111,7 +111,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Status Externalities in Education and Low Birth Rates in Korea"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
-  &nbsp;<font color="black"><b><i>American Economic Review</i></b>, 114(6), 2024</font></summary>
+  &nbsp;<font color="black"><b><i>American Economic Review</i></b>, 2024</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -126,7 +126,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Distributional Effects of School Closure Mitigation Policies: Public versus Private Education"</font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)<br>
-  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, 235, 2024</font></summary>
+  &nbsp;<font color="black"><b><i>Economics Letters</i></b>, 2024</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -140,7 +140,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  &nbsp;<font color="black"><b><i>American Economic Journal: Macroeconomics</i></b>, 16(3), 2024</font></summary>
+  &nbsp;<font color="black"><b><i>American Economic Journal: Macroeconomics</i></b>, 2024</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -154,7 +154,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Frisch Elasticities in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font>
   
-  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, 126(1), 2024</font></summary>
+  &nbsp;<font color="black"><b><i>Scandinavian Journal of Economics</i></b>, 2024</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -168,7 +168,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Tax-and-Transfer Progressivity and Business Cycles"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)<br>
-  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, 14(4), 2023</font></summary>
+  &nbsp;<font color="black"><b><i>Quantitative Economics</i></b>, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -182,7 +182,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
   
-  &nbsp;<font color="black"><b><i>International Economic Review</i></b>, 64(1), 2023</font></summary>
+  &nbsp;<font color="black"><b><i>International Economic Review</i></b>, 2023</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -196,7 +196,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)<br>
-  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 46, 2022</font></summary>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2022</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -210,7 +210,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"Model Selection for Panel Data Models with Fixed Effects: A Simulation Study"</font>
     
-  &nbsp;<font color="black"><b><i>Applied Economics Letters</i></b>, 29(19), 2022</font></summary>
+  &nbsp;<font color="black"><b><i>Applied Economics Letters</i></b>, 2022</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -224,7 +224,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
-  &nbsp;<font color="black"><b><i>Macroeconomic Dynamics</i></b>, 24(8), 2020</font></summary>
+  &nbsp;<font color="black"><b><i>Macroeconomic Dynamics</i></b>, 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -238,7 +238,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   <details>
   <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
-  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 30, 2018</font></summary>
+  &nbsp;<font color="black"><b><i>Review of Economic Dynamics</i></b>, 2018</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
