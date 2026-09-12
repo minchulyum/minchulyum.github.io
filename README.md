@@ -285,5 +285,13 @@ My research focuses primarily on macroeconomics and family economics, and I have
    
  
  ----
+ <details>
+  <summary markdown="span"><font color="blue">"Demographic Change and the Provision of Public Education"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/view/cmherrington/" target="_blank">Chris Herrington</a>)</summary>
+  
+ </details>
+   
+ 
+ ----
  <br>
  
