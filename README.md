@@ -62,6 +62,14 @@ My research focuses primarily on macroeconomics and family economics, and I have
  
 
  ----
+
+ <details>
+  <summary markdown="span"><font color="blue">"A Dynastic Perspective on the Value of Life with Endogenous Fertility"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  
+ </details>
+ 
+ ----
  
  <details>
   <summary markdown="span"><font color="blue">"Health, Longevity, and Retirement Dynamics: Implications for Social Security Progressivity"</font><br>
@@ -261,14 +269,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  
  ----
   
- <details>
-  <summary markdown="span"><font color="blue">"A Dynastic Perspective on the Value of Life with Endogenous Fertility"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
   
- </details>
- 
- ----
- 
 <details>
   <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
   &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
