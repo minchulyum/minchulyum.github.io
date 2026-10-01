@@ -79,7 +79,13 @@ My research focuses primarily on macroeconomics and family economics, and I have
  
  ----
  
+ <details>
+  <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
+  
+ </details>
  
+ ----
   
  
  <br>
@@ -270,13 +276,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  ----
   
   
-<details>
-  <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Hitoshi Tsujiyama</a>)</summary>
-  
- </details>
- 
- ----
+
  <details>
   <summary markdown="span"><font color="blue">"A Business Cycle Assessment of Joint Taxation of Married Couples"</font><br>
   &nbsp;(with <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
