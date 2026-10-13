@@ -21,6 +21,19 @@ My research focuses primarily on macroeconomics and family economics, and I have
 ### Working Papers:
 
 <details>
+  <summary markdown="span"><font color="blue">"The Value of Life across Generations: Fertility and Parental Investment"</font><br>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We study how fertility and parental investment shape the value of mortality improvements in a quantitative dynastic life-cycle model. Households choose fertility, saving, education spending, and inter-vivos transfers under earnings risk and borrowing constraints. We distinguish the own-life component of survival valuation from the dynastic value of a statistical life, which also incorporates the value parents assign to survival benefits received by their descendants. Calibrating the model to the pre-baby-boom United States, we find that the dynastic premium accounts for more than half of young households' valuation of a common survival improvement. Most of this premium arises from dynastic continuation, while education and financial transfers increase it further. Historical declines in maternal mortality and improvements in old-age survival both raise fertility and reduce average investment per child, even though investment rises among households whose fertility remains unchanged. Holding current fertility fixed, both changes increase the dynastic premium; allowing fertility to adjust attenuates these valuation responses. These findings connect the valuation of mortality improvements to the quantity-quality trade-off and show why the scope of a mortality change across generations matters for willingness to pay. </font> |
+  
+ </details>
+ &nbsp;<a href="https://minchulyum.github.io/papers/JangYum_VSL_Oct2026.pdf" target="_blank"><u>[Paper (2026/10)]</u></a>
+ 
+ ----
+ 
+ <details>
   <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
   &nbsp;(with <a href="https://daisoonkim.github.io/" target="_blank">Daisoon Kim</a>)<br></summary>  
   
@@ -63,13 +76,6 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
  ----
 
- <details>
-  <summary markdown="span"><font color="blue">"A Dynastic Perspective on the Value of Life with Endogenous Fertility"</font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
-  
- </details>
- 
- ----
  
  <details>
   <summary markdown="span"><font color="blue">"Health, Longevity, and Retirement Dynamics: Implications for Social Security Progressivity"</font><br>
