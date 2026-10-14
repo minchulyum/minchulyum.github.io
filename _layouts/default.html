@@ -7,6 +7,18 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+    @media screen and (min-width: 961px) {
+      .wrapper {
+        width: 1100px;
+        max-width: 100%;
+      }
+    
+      section {
+        width: calc(100% - 360px);
+      }
+    }
+    </style>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
