@@ -22,7 +22,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
 <details>
   <summary markdown="span"><font color="blue"><b>The Value of Life across Generations: Fertility and Parental Investment</b></font><br>
-  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank"><font color="blue">Youngsoo Jang</font></a>)</summary>
+  &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
 
   | **Abstract**          |
   |:---------------------------|
@@ -42,7 +42,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | <font color="black">Parental leave policies are often viewed by policymakers as a potential tool for addressing low fertility and gender inequality. We develop a dynamic heterogeneous-household life-cycle model in which couples jointly choose careers, labor supply, savings, childcare, fertility, and parental leave use. The model incorporates a segmented labor market where career-oriented jobs are difficult to re-enter after interruptions and is calibrated to Korean data. Our quantitative results show that more generous parental leave benefits can simultaneously increase fertility and narrow gender gaps in labor supply and wages over the life cycle. These effects arise through a career-attachment channel: job-protected leave allows more women to remain attached to career-oriented jobs during childrearing years, improving long-run career progression despite temporary labor-supply reductions. Counterfactual exercises show that the fertility effects weaken substantially when job protection or labor-market segmentation is removed, highlighting the importance of broader labor-market institutions in shaping the effects of parental leave reforms. </font> |
   
  </details>
- &nbsp;<font color="blue"><a href="https://minchulyum.github.io/papers/KimYum_PL_Aug2026.pdf" target="_blank"><u>[Paper (2026/08)]</u></a> <a href="https://cepr.org/publications/dp19951" target="_blank"><u>[CEPR DP]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164865" target="_blank"><u>[SSRN]</u></a> <a href="https://cepr.org/voxeu/columns/effects-parental-leave-policy-reforms-fertility-and-gender-gaps" target="_blank"><u>[VoxEU]</u></a></font>
+ &nbsp;<a href="https://minchulyum.github.io/papers/KimYum_PL_Aug2026.pdf" target="_blank"><u><font color="blue">[Paper (2026/08)]</font></u></a> <a href="https://cepr.org/publications/dp19951" target="_blank"><u>[CEPR DP]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164865" target="_blank"><u>[SSRN]</u></a> <a href="https://cepr.org/voxeu/columns/effects-parental-leave-policy-reforms-fertility-and-gender-gaps" target="_blank"><u>[VoxEU]</u></a>
   
  ----
 <details>
