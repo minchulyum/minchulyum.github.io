@@ -21,7 +21,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 ### Working Papers:
 
 <details>
-  <summary markdown="span"><font color="blue">"The Value of Life across Generations: Fertility and Parental Investment"</font><br>
+  <summary markdown="span"><font color="blue"><b>The Value of Life across Generations: Fertility and Parental Investment</b></font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
 
   | **Abstract**          |
