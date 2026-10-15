@@ -8,10 +8,9 @@
 <br>
 
 My research focuses primarily on macroeconomics and family economics, and I have received several awards for my work, including <a href="https://m.mk.co.kr/news/world/10598229" target="_blank">Young Scholar Award</a> (2023) from <a href="https://kaea.org/kaea/awards/young-scholar-award/" target="_blank">KAEA</a>.</font>
-<br>
-<h3 style="font-weight: normal; font-size: 16px;">
-  <a href="CV.pdf"><ins>Curriculum Vitae</ins> (PDF)</a>
-</h3>
+<div class="paper-links">
+  <a href="CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
+</div>
 
  ----
  
@@ -30,7 +29,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | <font color="black">We study how fertility and parental investment shape the value of mortality improvements in a quantitative dynastic life-cycle model. Households choose fertility, saving, education spending, and inter-vivos transfers under earnings risk and borrowing constraints. We distinguish the own-life component of survival valuation from the dynastic value of a statistical life, which also incorporates the value parents assign to survival benefits received by their descendants. Calibrating the model to the pre-baby-boom United States, we find that the dynastic premium accounts for a substantial share of young households' valuation of a common survival improvement. Most of this premium arises from dynastic continuation, while education and financial transfers increase it further. Historical declines in maternal mortality and improvements in old-age survival both raise fertility. Lower maternal mortality reduces average investment per child, whereas improved old-age survival leaves it nearly unchanged. Investment rises in both cases among households whose fertility remains unchanged. The dynastic premium responds more strongly to improved old-age survival, while endogenous fertility materially changes both total dynastic valuation and its division between own-life and dynastic components. These findings connect the valuation of mortality improvements to the quantity-quality trade-off and show why the scope of a mortality change across generations matters for willingness to pay. </font> |
   
  </details>
- &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/JangYum_VSL_Oct2026.pdf" target="_blank">Paper</a></span>
+ &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/JangYum_VSL_Oct2026.pdf" target="_blank">Paper (2026/10)</a></span>
  
  ----
  
@@ -43,7 +42,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | <font color="black">Parental leave policies are often viewed by policymakers as a potential tool for addressing low fertility and gender inequality. We develop a dynamic heterogeneous-household life-cycle model in which couples jointly choose careers, labor supply, savings, childcare, fertility, and parental leave use. The model incorporates a segmented labor market where career-oriented jobs are difficult to re-enter after interruptions and is calibrated to Korean data. Our quantitative results show that more generous parental leave benefits can simultaneously increase fertility and narrow gender gaps in labor supply and wages over the life cycle. These effects arise through a career-attachment channel: job-protected leave allows more women to remain attached to career-oriented jobs during childrearing years, improving long-run career progression despite temporary labor-supply reductions. Counterfactual exercises show that the fertility effects weaken substantially when job protection or labor-market segmentation is removed, highlighting the importance of broader labor-market institutions in shaping the effects of parental leave reforms. </font> |
   
  </details>
- &nbsp;<a href="https://minchulyum.github.io/papers/KimYum_PL_Aug2026.pdf" target="_blank">[Paper (2026/08)]</a> <a href="https://cepr.org/publications/dp19951" target="_blank">[CEPR DP]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164865" target="_blank">[SSRN]</a> <a href="https://cepr.org/voxeu/columns/effects-parental-leave-policy-reforms-fertility-and-gender-gaps" target="_blank">[VoxEU]</a>
+ &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/KimYum_PL_Aug2026.pdf" target="_blank">Paper (2026/08)</a></span> <a href="https://cepr.org/publications/dp19951" target="_blank">[CEPR DP]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164865" target="_blank">[SSRN]</a> <a href="https://cepr.org/voxeu/columns/effects-parental-leave-policy-reforms-fertility-and-gender-gaps" target="_blank">[VoxEU]</a>
   
  ----
 <details>
