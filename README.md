@@ -34,7 +34,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">"Parental Leave Policies, Fertility, and Labor Supply"</font><br>
+  <summary markdown="span"><font color="blue"><b><u>Parental Leave Policies, Fertility, and Labor Supply</u></b></font><br>
   &nbsp;(with <a href="https://daisoonkim.github.io/" target="_blank">Daisoon Kim</a>)<br></summary>  
   
   | **Abstract**          |
