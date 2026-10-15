@@ -21,7 +21,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
 ### Working Papers:
 
 <details>
-  <summary markdown="span"><font color="365A75"><b>The Value of Life across Generations: Fertility and Parental Investment</b></font><br>
+  <summary markdown="span"><font color="blue"><b>The Value of Life across Generations: Fertility and Parental Investment</b></font><br>
   &nbsp;(with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
 
   | **Abstract**          |
@@ -34,7 +34,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  ----
  
  <details>
-  <summary markdown="span"><font color="#526B83"><b>Parental Leave Policies, Fertility, and Labor Supply</b></font><br>
+  <summary markdown="span"><font color="#blue"><b>Parental Leave Policies, Fertility, and Labor Supply</b></font><br>
   &nbsp;(with <a href="https://daisoonkim.github.io/" target="_blank">Daisoon Kim</a>)<br></summary>  
   
   | **Abstract**          |
@@ -46,7 +46,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   
  ----
 <details>
-  <summary markdown="span"><font color="#526B83"><b>Low Fertility Around the World: The Role of Social Norms</b></font><br>
+  <summary markdown="span"><font color="#blue"><b>Low Fertility Around the World: The Role of Social Norms</b></font><br>
   &nbsp;(with <a href="https://sites.google.com/view/kanato-nakakuni/" target="_blank">Kanato Nakakuni</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)<br>
   &nbsp;Prepared for <font color="black"><b><i>Fertility in Decline: Interdisciplinary Perspectives on Reproductive Behavior, Policy, and Demographic Futures</i></b> (edited by James J. Heckman) </summary>
    
@@ -62,7 +62,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
  ----
 
  <details>
-  <summary markdown="span"><font color="#526B83"><b>Economic Theories of Fertility Choice</b></font><br>
+  <summary markdown="span"><font color="#blue"><b>Economic Theories of Fertility Choice</b></font><br>
   &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
   &nbsp;Prepared for <font color="black"><b><i>Oxford Handbook of Fertility & Reproductive Health Economics</i></b> (edited by Kelly M. Jones and Damian Clarke)</summary>
    
