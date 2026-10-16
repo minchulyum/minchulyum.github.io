@@ -110,7 +110,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.1353/eca.2025.a994511" target="_blank">https://doi.org/10.1353/eca.2025.a994511</a> |
   
  </details>
- &nbsp;<span class="paper-links"><a href="https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/" target="_blank">Publisher (Open Access)</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MTY2025BPEA.txt" target="_blank">BibTex</a></span>
+ &nbsp;<span class="paper-links"><a href="https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/" target="_blank">Publisher (Open Access)</a></span> <span class="paper-links"><a href="https://www.brookings.edu/wp-content/uploads/2025/09/5_Mahler_Tertilt_Yum_17465-JHUP_BPEA-Fall-2025-WEB-1.pdf" target="_blank">Paper</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MTY2025BPEA.txt" target="_blank">BibTex</a></span>
  
  ----
 <details>
