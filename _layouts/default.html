@@ -218,16 +218,35 @@
   </script>
 
 
+<!-- email addresses -->
 <script>
 document.querySelectorAll(".email-chip").forEach(button => {
-    button.addEventListener("click", () => {
+    button.addEventListener("click", async () => {
         const address =
             button.dataset.local + "@" +
             button.dataset.host + "." +
             button.dataset.tld;
 
-        
-        button.textContent = address;
+        if (button.dataset.revealed !== "true") {
+            button.textContent = address;
+            button.dataset.revealed = "true";
+            button.title = "Click to copy";
+            return;
+        }
+
+        try {
+            await navigator.clipboard.writeText(address);
+
+            button.textContent = "✓ Copied!";
+
+            setTimeout(() => {
+                button.textContent = address;
+            }, 1500);
+
+        } catch (error) {
+            // Fallback if clipboard access is unavailable
+            window.prompt("Copy email address:", address);
+        }
     });
 });
 </script>
