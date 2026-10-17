@@ -1,135 +1,235 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <style>
+  {% seo %}
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+  <style>
+
+    /* Page width */
     @media screen and (min-width: 961px) {
-    .wrapper {
-      width: 950px;
-      max-width: 100%;
-    }
-  
-    section {
-      width: 590px;
-    }
-  }
-      header h1 a,
-      header h1 a:hover,
-      header h1 a:visited {
-          color: #000000;
+      .wrapper {
+        width: 950px;
+        max-width: 100%;
       }
-       section font[color="blue"] {
+
+      section {
+        width: 590px;
+      }
+    }
+
+    /* Name color */
+    header h1 a,
+    header h1 a:hover,
+    header h1 a:visited {
+      color: #000000;
+    }
+
+    /* Paper title color */
+    section font[color="blue"] {
       color: #174EA6 !important;
-  }
-      section a,
-      section a:hover,
-      section a:visited {
-          color: #2055CC !important;
-      }
-      .paper-links a {
-    display: inline-block;
-    padding: 3px 9px;
-    margin: 3px 3px 3px 0;
-    border: 1px solid #B6C9E2;
-    border-radius: 5px;
-    color: #185ABC !important;
-    background-color: #FFFFFF;
-    font-size: 12px;
-    text-decoration: none;
-}
+    }
 
-.paper-links a:hover {
-    background-color: #EAF2FC;
-}
-      /* Abstract boxes */
-section details table {
-    width: 100%;
-    background-color: #F5F7FA;
-    border: 1px solid #E2E7EE;
-    border-radius: 6px;
-    border-collapse: separate;
-    border-spacing: 0;
-    margin: 12px 0;
-}
+    /* General hyperlink color */
+    section a,
+    section a:hover,
+    section a:visited {
+      color: #2055CC !important;
+    }
 
-section details table th {
-    background-color: transparent;
-    border: none;
-    text-align: left;
-    padding: 12px 14px 4px;
-}
+    /* Paper link boxes */
+    .paper-links a {
+      display: inline-block;
+      padding: 3px 9px;
+      margin: 3px 3px 3px 0;
+      border: 1px solid #B6C9E2;
+      border-radius: 5px;
+      color: #185ABC !important;
+      background-color: #FFFFFF;
+      font-size: 12px;
+      text-decoration: none;
+    }
 
-section details table td {
-    border: none;
-    padding: 5px 12px 10px;
-    line-height: 1.5;
-}
+    .paper-links a:hover {
+      background-color: #EAF2FC;
+    }
 
-section details table td,
-section details table td p {
-    text-align: justify !important;
-    text-justify: inter-word;
-}
-      
-    </style>
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <div style="display:inline;float:center">
-        <p>{{ site.description | default: site.github.project_tagline }}
-          <img src="VCU_Logo.png" style="width:150px" /></p>
-          
-          
-          <img src="{{site.logo | relative_url}}" alt="Logo"  style="width:230px" />
-          
-          <p>
+    /* Abstract boxes */
+    section details table {
+      width: 100%;
+      background-color: #F5F7FA;
+      border: 1px solid #E2E7EE;
+      border-radius: 6px;
+      border-collapse: separate;
+      border-spacing: 0;
+      margin: 12px 0;
+    }
+
+    section details table th {
+      background-color: transparent;
+      border: none;
+      text-align: left;
+      padding: 12px 14px 4px;
+    }
+
+    section details table td {
+      border: none;
+      padding: 5px 12px 10px;
+      line-height: 1.5;
+    }
+
+    section details table td,
+    section details table td p {
+      text-align: justify !important;
+      text-justify: inter-word;
+    }
+
+    /* Email contact buttons */
+    .email-contact {
+      margin: 12px 0 16px;
+    }
+
+    .email-chip {
+      display: inline-block;
+      padding: 5px 10px;
+      margin: 6px 5px 0 0;
+      border: 1px solid #B6C9E2;
+      border-radius: 5px;
+      background-color: #FFFFFF;
+      color: #185ABC;
+      font-size: 12px;
+      font-family: inherit;
+      cursor: pointer;
+    }
+
+    .email-chip:hover {
+      background-color: #EAF2FC;
+    }
+
+    .email-chip:focus-visible {
+      outline: 2px solid #185ABC;
+      outline-offset: 2px;
+    }
+
+  </style>
+
+  <!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
+
+</head>
+
+<body>
+  <div class="wrapper">
+
+    <header>
+
+      <h1>
+        <a href="{{ "/" | absolute_url }}">
+          {{ site.title | default: site.github.repository_name }}
+        </a>
+      </h1>
+
+      <div>
+
+        <p>
+          {{ site.description | default: site.github.project_tagline }}
+          <img src="VCU_Logo.png" style="width:150px" />
+        </p>
+
+        <img src="{{site.logo | relative_url}}"
+             alt="Logo"
+             style="width:230px" />
+
+        <!-- Mailing address -->
+        <p>
           <br><b>Mailing address</b>:
           <br>Virginia Commonwealth University
           <br>B3179 Snead Hall
           <br>301 W Main St
           <br>Richmond, VA 23284
-          <br>
-          <br><b>E-mail</b>:
-            <br><small>yumm "at" vcu.edu</small>
-            <br><small>minchul.yum "at" gmail.com</small>
-            
-        <br>        
-        <br><b>Links</b>:
-        <br><a href="https://directory.business.vcu.edu/profile.php?urn=yumm" target="_blank">Department Website</a>
-        <br><a href="https://scholar.google.com/citations?user=kpF0wT8AAAAJ&hl=en" target="_blank">Google Scholar Page</a>
-        <br><a href="https://ideas.repec.org/top/top.person.all10.html" target="_blank">IDEAS/RePEc Top Authors</a>   
-        <br><a href="https://orcid.org/0000-0002-1272-9822" target="_blank">ORCID</a>  
-        
         </p>
-            
-      </header>
-      <section>
 
+        <!-- Email contact buttons -->
+        <div class="email-contact">
+          <b>E-mail</b><br>
+
+          <button type="button"
+                  class="email-chip"
+                  data-local="yumm"
+                  data-host="vcu"
+                  data-tld="edu">
+            ✉ VCU Email
+          </button>
+
+        </div>
+
+        <!-- External links -->
+        <p>
+          <b>Links</b>:
+
+          <br><a href="https://directory.business.vcu.edu/profile.php?urn=yumm"
+                 target="_blank" rel="noopener">
+            Department Website
+          </a>
+
+          <br><a href="https://scholar.google.com/citations?user=kpF0wT8AAAAJ&hl=en"
+                 target="_blank" rel="noopener">
+            Google Scholar Page
+          </a>
+
+          <br><a href="https://ideas.repec.org/top/top.person.all10.html"
+                 target="_blank" rel="noopener">
+            IDEAS/RePEc Top Authors
+          </a>
+
+          <br><a href="https://orcid.org/0000-0002-1272-9822"
+                 target="_blank" rel="noopener">
+            ORCID
+          </a>
+        </p>
+
+      </div>
+
+    </header>
+
+    <!-- Main content -->
+    <section>
       {{ content }}
-        
-      </section>
-      
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Q65FQGBLJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    </section>
 
-  gtag('config', 'G-3Q65FQGBLJ');
-</script>
-  </body>
+  </div>
+
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3Q65FQGBLJ"></script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3Q65FQGBLJ');
+  </script>
+
+  <!-- Construct email addresses when clicked -->
+  <script>
+    document.querySelectorAll(".email-chip").forEach(button => {
+      button.addEventListener("click", () => {
+        const address =
+          button.dataset.local + "@" +
+          button.dataset.host + "." +
+          button.dataset.tld;
+
+        window.location.href = "mailto:" + address;
+      });
+    });
+  </script>
+
+</body>
 </html>
