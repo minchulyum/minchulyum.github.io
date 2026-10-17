@@ -217,7 +217,7 @@
     gtag('config', 'G-3Q65FQGBLJ');
   </script>
 
-  <!-- Reveal email address and open email application -->
+
 <script>
 document.querySelectorAll(".email-chip").forEach(button => {
     button.addEventListener("click", () => {
@@ -226,11 +226,8 @@ document.querySelectorAll(".email-chip").forEach(button => {
             button.dataset.host + "." +
             button.dataset.tld;
 
-        // Display the email address after clicking
+        
         button.textContent = address;
-
-        // Attempt to open the email application
-        window.location.href = "mailto:" + address;
     });
 });
 </script>
