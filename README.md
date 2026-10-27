@@ -61,21 +61,6 @@ My research focuses primarily on macroeconomics and family economics, and I have
  
  ----
 
- <details>
-  <summary markdown="span"><font color="blue"><b>Economic Theories of Fertility Choice</b></font><br>
-  &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
-  &nbsp;Prepared for <font color="black"><i>Oxford Handbook of Fertility & Reproductive Health Economics</i> (edited by Kelly M. Jones and Damian Clarke)</summary>
-   
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">Fertility is among the most consequential household choices, shaping not only family life but also the size, age structure, and productive capacity of future populations. This chapter reviews economic theories of fertility through a sequence of simple and tractable benchmark models that isolate central mechanisms and provide a common framework for comparing theories across fertility outcomes and institutional settings. We first examine how the opportunity cost of parental time, the quantity-quality trade-off, changes in survival and health, and reproductive control can account for the decline from high to lower fertility, the baby boom and bust, and changes in fertility cyclicality. We then turn to persistently low fertility in advanced economies, emphasizing bargaining within couples, parenting norms, labor-market institutions and family policies, childlessness, delayed childbearing, and reproductive technologies. Finally, we consider fertility in developing countries and its interaction with long-run economic growth, focusing on customary institutions, family planning, and models with endogenous population. We conclude by identifying promising avenues for future research. </font> |
-  
- </details>
- &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/HannuschYum-Oct2026.pdf" target="_blank">Paper (2026/10)</a></span>
- 
-
- ----
-
  
  <details>
   <summary markdown="span"><font color="blue"><b>Health, Longevity, and Retirement Dynamics: Implications for Social Security Progressivity</b></font><br>
@@ -102,6 +87,20 @@ My research focuses primarily on macroeconomics and family economics, and I have
 
  
 ### Publications:
+<details>
+  <summary markdown="span"><font color="blue"><b>Economic Theories of Fertility Choice</b></font><br>
+  &nbsp;(with <a href="https://www.anne-hannusch.com/" target="_blank">Anne Hannusch</a>)<br>
+  &nbsp;Forthcoming, <font color="black"><i>Oxford Handbook of Fertility & Reproductive Health Economics</i> (edited by Kelly M. Jones and Damian Clarke)</summary>
+   
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">Fertility is among the most consequential household choices, shaping not only family life but also the size, age structure, and productive capacity of future populations. This chapter reviews economic theories of fertility through a sequence of simple and tractable benchmark models that isolate central mechanisms and provide a common framework for comparing theories across fertility outcomes and institutional settings. We first examine how the opportunity cost of parental time, the quantity-quality trade-off, changes in survival and health, and reproductive control can account for the decline from high to lower fertility, the baby boom and bust, and changes in fertility cyclicality. We then turn to persistently low fertility in advanced economies, emphasizing bargaining within couples, parenting norms, labor-market institutions and family policies, childlessness, delayed childbearing, and reproductive technologies. Finally, we consider fertility in developing countries and its interaction with long-run economic growth, focusing on customary institutions, family planning, and models with endogenous population. We conclude by identifying promising avenues for future research. </font> |
+  
+ </details>
+ &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/HannuschYum-Oct2026.pdf" target="_blank">Paper (2026/10)</a></span>
+ 
+
+ ----
 
  <details>
   <summary markdown="span"><font color="blue"><b>Policy Concerns in an Era of Low Fertility: The Role of Social Comparisons and Intensive Parenting</b></font><br>
