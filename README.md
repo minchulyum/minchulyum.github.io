@@ -80,7 +80,11 @@ My research focuses primarily on macroeconomics and family economics, and I have
  <details>
   <summary markdown="span"><font color="blue"><b>Health, Longevity, and Retirement Dynamics: Implications for Social Security Progressivity</b></font><br>
   &nbsp;(with <a href="https://lukasmahler.github.io/" target="_blank">Lukas Mahler</a>)</summary>
-  
+   
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">How do differences in health and longevity shape redistribution through public pension systems, and how do pension policies themselves affect these outcomes? We study these questions in the context of Germany, using a quantitative life-cycle model with endogenous health investment, labor supply, and retirement. We estimate the model using household survey data linked to administrative pension records. Our framework allows us to examine how differences in lifetime earnings, health, longevity, and retirement behavior jointly determine the distribution of pension contributions and benefits. We then use the model to evaluate the distributional effects of alternative pension reforms, accounting for individuals' behavioral responses. In particular, we investigate how changes in health investment and longevity in response to pension policies affect their redistributive consequences, and how these effects differ from those obtained when health and longevity are treated as exogenous. </font> |
+    
  </details>
  
  ----
