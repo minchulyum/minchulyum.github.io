@@ -127,7 +127,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | DOI: <a href="https://doi.org/10.3982/ECTA20603" target="_blank">https://doi.org/10.3982/ECTA20603</a> |
   
  </details>
- &nbsp;<span class="paper-links"><a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank">Publisher (Open Access)</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank">Working Paper</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank">BibTex</a></span>
+ &nbsp;<span class="paper-links"><a href="https://www.econometricsociety.org/publications/econometrica/2024/09/01/Lifestyle-Behaviors-and-Wealth-Health-Gaps-in-Germany" target="_blank">Publisher (Open Access)</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MahlerYum_ECMACorrigendum.pdf" target="_blank">Corrigendum</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MahlerYum-Aug2024.pdf" target="_blank">Working Paper</a></span> <span class="paper-links"><a href="https://minchulyum.github.io/papers/MahlerYumECTA2024.txt" target="_blank">BibTex</a></span>
  
 ----
 
