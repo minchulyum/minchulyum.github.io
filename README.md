@@ -29,7 +29,7 @@ My research focuses primarily on macroeconomics and family economics, and I have
   | <font color="black">We study survival valuation in a quantitative dynastic life-cycle model of heterogeneous agents choosing fertility and parental investment. Calibrated to the pre-baby-boom United States, the model generates a substantial dynastic premium over own-life valuation, amplified by parental investments. Removing earnings risk raises fertility more when descendants also benefit. Holding current fertility fixed, the premium likewise responds more strongly to risk removal across generations. Declining maternal mortality and improved old-age survival both raise fertility. The premium changes little under the former and rises under the latter. These findings link survival valuation to family decisions and descendants' economic and mortality conditions. </font> |
   
  </details>
- &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/JangYum_VSL_Nov2026.pdf" target="_blank">Paper (2026-11)</a></span>
+ &nbsp;<span class="paper-links"><a href="https://minchulyum.github.io/papers/JangYum_VSL_Nov2026.pdf" target="_blank">Paper (2026-11)</a></span> <span class="paper-links"><a href="https://cepr.org/publications/dp22220" target="_blank">CEPR DP</a></span>
  
  ----
  
